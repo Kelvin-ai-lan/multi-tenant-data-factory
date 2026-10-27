@@ -1,0 +1,68 @@
+version: 2
+
+models:
+  - name: dim_customers
+    description: >
+      Customer-grain dimension combining standardized profile attributes with
+      lifetime order value, transaction frequency, average CSAT, and a
+      transaction-count-based loyalty tier.
+    columns:
+      - name: customer_id
+        description: Universal customer identifier used to connect customer profile and activity records.
+        tests:
+          - unique
+          - not_null
+      - name: lifetime_transaction_count
+        description: Number of distinct lifetime orders associated with the customer.
+      - name: gross_lifetime_revenue_amount
+        description: Sum of gross order revenue across the customer's lifetime orders.
+      - name: average_csat_score
+        description: Average available customer satisfaction score from support records.
+      - name: customer_loyalty_tier
+        description: Transaction-frequency tier, from standard through gold.
+        tests:
+          - accepted_values:
+              arguments:
+                values:
+                  - standard
+                  - bronze
+                  - silver
+                  - gold
+
+  - name: fct_campaign_performance
+    description: >
+      Campaign- and currency-grain marketing performance summary that combines
+      spend and engagement totals with credit-weighted attribution conversions,
+      click-through rate, and cost per acquisition.
+    columns:
+      - name: campaign_id
+        description: Campaign identifier for the summarized performance record.
+        tests:
+          - not_null
+      - name: total_spend_amount
+        description: Total campaign spend across the available performance dates.
+      - name: total_conversions_linked
+        description: Sum of attribution credit shares for orders linked to the campaign.
+      - name: click_through_rate
+        description: Total clicks divided by total impressions; null when impressions are zero.
+      - name: cost_per_acquisition
+        description: Total spend divided by credit-weighted conversions; null when conversion credit is zero.
+
+  - name: fct_order_fulfillment
+    description: >
+      Order-grain operational fact combining order revenue, shipment execution,
+      delivery promise variance, and aggregated return/refund leakage metrics.
+    columns:
+      - name: order_id
+        description: Universal order identifier for the fulfillment fact record.
+        tests:
+          - unique
+          - not_null
+      - name: fulfillment_velocity_hours
+        description: Elapsed hours from order timestamp to actual delivery; null when either timestamp is unavailable.
+      - name: delivery_promise_delta_hours
+        description: Actual delivery time minus promised delivery time in hours; positive values indicate lateness.
+      - name: total_refund_amount
+        description: Total recorded refund amount associated with the order.
+      - name: refund_leakage_rate
+        description: Total refund amount divided by gross order revenue; null when gross revenue is zero.

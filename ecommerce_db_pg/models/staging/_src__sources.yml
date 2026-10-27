@@ -1,0 +1,31 @@
+version: 2
+
+sources:
+  - name: raw_ecommerce
+    schema:  analytics_marts_raw_ecommerce
+    description: "Inbound schema containing raw, generic source datasets for multi-tenant e-commerce processing."
+    tables:
+      - name: Attribution_Bridge_v2
+        description: "Raw touchpoint data linking marketing campaigns to orders."
+      - name: Campaign_Performance_Daily_v2
+        description: "Daily marketing performance indicators and spend logs."
+      - name: Checkout_Sessions
+        description: "Clickstream web logs monitoring user checkout funnels."
+      - name: Customer_Experience
+        description: "Inbound customer support ticketing and satisfaction scores."
+      - name: Customers_v2
+        description: "Core client customer profiles and account details."
+      - name: Delivery_Fulfillment
+        description: "Logistics, tracking, and carrier delivery records."
+      - name: Inventory_History
+        description: "Periodic warehouse stock snapshots and velocity tracking."
+      - name: Marketing_Touchpoints
+        description: "Granular click event streams across marketing assets."
+      - name: Orders_v2
+        description: "Atomic transactional ledger documenting itemized purchases."
+      - name: Products_v2
+        description: "Master inventory stock keeping units (SKUs) dictionary."
+      - name: Returns_Refunds
+        description: "Post-purchase financial refund logs and cancellation files."
+      - name: Subscription_Billing
+        description: "Recurring revenue plans, trial flags, and tier records."

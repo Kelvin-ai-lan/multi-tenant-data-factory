@@ -1,0 +1,28 @@
+version: 2
+
+models:
+  - name: stg_orders
+    description: "Staging table for client orders. Monitored for structural integrity."
+    columns:
+      - name: order_id
+        description: "Primary key. Must be entirely unique and never null."
+        tests:
+          - unique
+          - not_null
+      - name: customer_id
+        description: "Foreign key linking to customer records. Must never be null."
+        tests:
+          - not_null
+      - name: line_total_amount
+        description: "The parsed numeric transaction total. Must never be blank."
+        tests:
+          - not_null
+
+  - name: stg_customers
+    description: "Staging table for client profiles. Monitored for structural integrity."
+    columns:
+      - name: customer_id
+        description: "Primary key. Must be entirely unique and never null."
+        tests:
+          - unique
+          - not_null

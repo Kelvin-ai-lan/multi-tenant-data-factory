@@ -1,0 +1,67 @@
+product_id,product_name,category,brand,sku,base_price,cost_price,weight_kg,product_status,cost_price_num,base_price_num,cost_data_available,negative_margin_flag,duplicate_name_group,cleaning_negative_margin_review,cleaning_missing_brand,cleaning_missing_cost_price,cleaning_missing_weight,base_price_original,cost_price_status,brand_status,weight_status
+PRD2000,Action Figure Collectible,Toys & Games,FunTime,SKU-2000-TO,40.12,20.91,5.73,Active,20.91,40.12,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2001,Vitamin C Serum,Beauty & Personal Care,GlowUp,SKU-2001-BE,50.75,31.4,8.92,Active,31.4,50.75,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2002,4K Smart TV 55in,Electronics,VoltEdge,SKU-2002-EL,287.95,133.9,7.83,Active,133.9,287.95,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2003,Bluetooth Speaker Mini,Electronics,VoltEdge,SKU-2003-EL,305.02,138.39,0.88,Active,138.39,305.02,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2004,Running Sneakers,Apparel,Generic-Apparel,SKU-2004-AP,74.22,36.73,2.63,Active,36.73,74.22,True,False,True,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2005,Dark Chocolate Bar Pack,Grocery,DailyGrub,SKU-2005-GR,19.32,10.82,4.14,Active,10.82,19.32,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2006,Hair Dryer Ionic,Beauty & Personal Care,PureSkin,SKU-2006-BE,52.72,23.13,7.13,Active,23.13,52.72,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2007,Women's Wool Sweater,Apparel,Generic-Apparel,SKU-2007-AP,165.61,86.55,0.45,Active,86.55,165.61,True,False,False,True,False,False,False,62.83,VERIFIED,VERIFIED,VERIFIED
+PRD2008,Organic Coffee Beans 1kg,Grocery,DailyGrub,SKU-2008-GR,18.35,7.79,6.04,Active,7.79,18.35,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2009,Extra Virgin Olive Oil 1L,Grocery,DailyGrub,SKU-2009-GR,26.64,13.94,1.99,Active,13.94,26.64,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2010,Yoga Leggings,Apparel,ThreadWorks,SKU-2010-AP,58.5,27.92,7.86,Active,27.92,58.5,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2011,Board Game Family Pack,Toys & Games,FunTime,SKU-2011-TO,34.62,18.54,5.82,Active,18.54,34.62,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2012,Puzzle 1000 Pieces,Toys & Games,FunTime,SKU-2012-TO,30.08,13.6,3.95,Active,13.6,30.08,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2013,Plush Teddy Bear,Toys & Games,Generic-Toys & Games,SKU-2013-TO,32.49,17.86,8.05,Active,17.86,32.49,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2014,Shampoo & Conditioner Set,Beauty & Personal Care,DermaCare,SKU-2014-BE,34.2,14.42,0.2,Active,14.42,34.2,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2015,Winter Puffer Jacket,Apparel,ThreadWorks,SKU-2015-AP,68.5,34.32,3.73,Active,34.32,68.5,True,False,True,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2016,Graphic Novel Volume 1,Books & Media,StoryHouse,SKU-2016-BO,23.43,9.64,6.88,Active,9.64,23.43,True,False,True,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2017,Adjustable Dumbbell Set,Sports & Outdoors,ActivePro,SKU-2017-SP,89.93,53.63,1.09,Active,53.63,89.93,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2018,Laptop Stand Aluminum,Electronics,TechNova,SKU-2018-EL,409.41,251.16,3.71,Active,251.16,409.41,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2019,Hiking Backpack 40L,Sports & Outdoors,ActivePro,SKU-2019-SP,133.97,70.51,0.75,Active,70.51,133.97,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2020,Sunscreen SPF 50,Beauty & Personal Care,PureSkin,SKU-2020-BE,59.72,32.44,8.84,Active,32.44,59.72,True,False,True,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2021,Electric Toothbrush,Beauty & Personal Care,PureSkin,SKU-2021-BE,47.14,28.16,2.75,Active,28.16,47.14,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2022,Mixed Nuts Jar 500g,Grocery,DailyGrub,SKU-2022-GR,17.86,10.72,4.14,Active,10.72,17.86,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2023,Unisex Hoodie,Apparel,WearIt,SKU-2023-AP,92.51,46.86,9.17,Active,46.86,92.51,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2024,Electric Kettle,Home & Kitchen,HearthCo,SKU-2024-HO,299.13,165.0,7.08,Active,165.0,299.13,True,False,False,True,False,False,False,142.79,VERIFIED,VERIFIED,VERIFIED
+PRD2025,Beard Trimmer Kit,Beauty & Personal Care,Beautilux,SKU-2025-BE,47.19,23.77,0.13,Active,23.77,47.19,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2026,Memory Foam Pillow,Home & Kitchen,KitchenPro,SKU-2026-HO,146.53,100.37,4.9,Active,100.37,146.53,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2027,Protein Powder 2lb,Grocery,DailyGrub,SKU-2027-GR,18.72,12.27,4.5,Active,12.27,18.72,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2028,Perfume Eau de Parfum 50ml,Beauty & Personal Care,Generic-Beauty & Personal Care,SKU-2028-BE,60.13,37.85,1.98,Active,37.85,60.13,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2029,Building Blocks Set 500pc,Toys & Games,LegoBrand,SKU-2029-TO,39.44,22.64,4.02,Active,22.64,39.44,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2030,BedSheet Set Queen,Home & Kitchen,Generic-Home & Kitchen,SKU-2030-HO,188.69,108.76,1.92,Active,108.76,188.69,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2031,Bestselling Fiction Novel,Books & Media,StoryHouse,SKU-2031-BO,23.87,15.2,4.43,Active,15.2,23.87,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2032,Noise Cancelling Headphones,Electronics,PixelPro,SKU-2032-EL,254.81,166.92,4.03,Active,166.92,254.81,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2033,Fitness Tracker Band,Sports & Outdoors,OutdoorX,SKU-2033-SP,168.15,81.06,1.83,Active,81.06,168.15,True,False,True,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2034,Wireless Earbuds Pro,Electronics,PixelPro,SKU-2034-EL,265.06,155.79,6.35,Active,155.79,265.06,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2035,Remote Control Car,Toys & Games,LegoBrand,SKU-2035-TO,43.81,24.4,3.2,Active,24.4,43.81,True,False,True,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2036,Portable Power Bank 20000mAh,Electronics,VoltEdge,SKU-2036-EL,297.68,169.94,6.05,Active,169.94,297.68,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2037,Self-Help Hardcover Book,Books & Media,Generic-Books & Media,SKU-2037-BO,22.19,12.79,3.83,Active,12.79,22.19,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2038,Cookbook Collection,Books & Media,MediaMint,SKU-2038-BO,28.89,14.09,0.64,Active,14.09,28.89,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2039,Cotton T-Shirt Pack,Apparel,WearIt,SKU-2039-AP,110.1,60.05,2.69,Active,60.05,110.1,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2040,Insulated Water Bottle,Sports & Outdoors,ActivePro,SKU-2040-SP,309.8,167.43,6.23,Active,167.43,309.8,True,False,False,True,False,False,False,128.9,VERIFIED,VERIFIED,VERIFIED
+PRD2041,Robot Vacuum Cleaner,Home & Kitchen,Generic-Home & Kitchen,SKU-2041-HO,141.57,87.41,1.51,Active,87.41,141.57,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2042,Green Tea Bags 100ct,Grocery,PantryPlus,SKU-2042-GR,11.48,5.17,5.88,Active,5.17,11.48,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2043,USB-C Fast Charger,Electronics,VoltEdge,SKU-2043-EL,272.56,113.34,7.71,Active,113.34,272.56,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2044,Yoga Mat Non-Slip,Sports & Outdoors,TrailBlaze,SKU-2044-SP,111.8,49.64,2.27,Active,49.64,111.8,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2045,Resistance Bands Set,Sports & Outdoors,OutdoorX,SKU-2045-SP,120.78,84.18,6.99,Active,84.18,120.78,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2046,Air Fryer 5.5L,Home & Kitchen,KitchenPro,SKU-2046-HO,145.25,65.13,3.48,Active,65.13,145.25,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2047,Kids Picture Book Set,Books & Media,StoryHouse,SKU-2047-BO,19.41,9.72,9.02,Active,9.72,19.41,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2048,Ceramic Coffee Mug Set,Home & Kitchen,CozyLiving,SKU-2048-HO,181.93,100.35,1.26,Active,100.35,181.93,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2049,Moisturizing Face Cream,Beauty & Personal Care,DermaCare,SKU-2049-BE,27.61,16.07,8.06,Active,16.07,27.61,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2050,Bedsheet Set Queen,Home & Kitchen,CozyLiving,SKU-2050-HO,117.57,60.31,3.48,Active,60.31,117.57,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2051,Smartwatch Series 5,Electronics,VoltEdge,SKU-2051-EL,323.27,213.01,7.05,Active,213.01,323.27,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2052,Camping Tent 4-Person,Sports & Outdoors,OutdoorX,SKU-2052-SP,73.33,33.16,9.42,Active,33.16,73.33,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2053,Men's Slim Fit Jeans,Apparel,ThreadWorks,SKU-2053-AP,80.55,45.93,0.14,Active,45.93,80.55,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2054,Cycling Helmet,Sports & Outdoors,ActivePro,SKU-2054-SP,118.91,81.57,0.68,Active,81.57,118.91,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2055,Non-Stick Frying Pan,Home & Kitchen,HomeEase,SKU-2055-HO,151.63,67.42,3.48,Active,67.42,151.63,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2056,Stainless Steel Cookware Set,Home & Kitchen,CozyLiving,SKU-2056-HO,83.43,48.09,4.19,Active,48.09,83.43,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2057,Productivity Planner Journal,Books & Media,MediaMint,SKU-2057-BO,24.6,11.02,2.06,Active,11.02,24.6,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2058,Leather Belt,Apparel,StyleCo,SKU-2058-AP,73.59,47.11,4.57,Active,47.11,73.59,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2059,Protein Powder Zib,Grocery,FreshFarm,SKU-2059-GR,4.6,2.07,2.31,Active,2.07,4.6,True,False,False,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2900,Fitness Tracker Band,Sports & Outdoors,OutdoorX,SKU-2900-SP,184.37,81.06,1.83,Active,81.06,184.37,True,False,True,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2901,Remote Control Car,Toys & Games,LegoBrand,SKU-2901-TO,43.67,24.4,3.2,Active,24.4,43.67,True,False,True,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2902,Running Sneakers,Apparel,Generic-Apparel,SKU-2902-AP,71.51,36.73,2.63,Active,36.73,71.51,True,False,True,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2903,Winter Puffer Jacket,Apparel,ThreadWorks,SKU-2903-AP,75.52,34.32,3.73,Active,34.32,75.52,True,False,True,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2904,Graphic Novel Volume 1,Books & Media,StoryHouse,SKU-2904-BO,21.72,9.64,6.88,Active,9.64,21.72,True,False,True,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED
+PRD2905,Sunscreen SPF 50,Beauty & Personal Care,PureSkin,SKU-2905-BE,55.47,32.44,8.84,Active,32.44,55.47,True,False,True,False,False,False,False,,VERIFIED,VERIFIED,VERIFIED

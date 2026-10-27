@@ -1,0 +1,501 @@
+customer_id,customer_id_original,registration_date,customer_country,device_type,customer_segment,loyalty_program_member,premium_subscription,loyalty_points_balance,acquisition_source,cleaning_missing_customer_country,cleaning_missing_device_type,cleaning_missing_customer_segment,cleaning_missing_loyalty_points_balance,cleaning_customer_id_differs_from_original
+CUST1015,CUST1015,2026-05-04,Canada,Desktop,At-Risk,Unknown,Yes,4449.0,Direct,False,False,False,False,False
+CUST1017,CUST1017,2025-12-03,Australia,Mobile,New,Unknown,No,1999.0,Affiliate,False,False,False,False,False
+CUST1027,CUST1027,2025-08-30,Mexico,Tablet,Returning,Unknown,No,4843.0,Direct,False,False,False,False,False
+CUST1031,CUST1031,2026-04-05,Mexico,Mobile,Returning,Yes,No,3285.0,Paid Social,False,False,False,False,False
+CUST1058,CUST1058,2026-03-25,Australia,Tablet,VIP,Yes,Yes,2005.0,Affiliate,False,False,False,False,False
+CUST1064,CUST1064,2025-04-11,Nigeria,Mobile,At-Risk,Yes,Yes,1942.0,Direct,False,False,False,False,False
+CUST1073,CUST1073,2025-12-25,Singapore,Mobile,Returning,No,Yes,662.0,Direct,False,False,False,False,False
+CUST1081,CUST1081,2025-09-21,US,Tablet,At-Risk,Yes,Unknown,1062.0,Paid Social,False,False,False,False,False
+CUST1086,CUST1086,2026-06-16,France,Mobile,New,Unknown,Yes,4925.0,Direct,False,False,False,False,False
+CUST1104,CUST1104,2026-05-29,AU,Tablet,At-Risk,Unknown,No,3744.0,Referral,False,False,False,False,False
+CUST1148,CUST1148,2025-06-09,Australia,Mobile,VIP,Yes,No,1978.0,Referral,False,False,False,False,False
+CUST1164,CUST1164,2025-10-27,France,Tablet,At-Risk,Yes,Yes,3692.0,Paid Social,False,False,False,False,False
+CUST1189,CUST1189,2026-04-20,AU,Mobile,VIP,Yes,Unknown,3293.0,Direct,False,False,False,False,False
+CUST1254,CUST1254,2025-10-14,Mexico,Mobile,New,Unknown,No,1037.0,Organic Search,False,False,False,False,False
+CUST1336,CUST1336,2025-08-08,UK,Tablet,New,No,No,3627.0,Paid Social,False,False,False,False,False
+CUST1341,CUST1341,2026-02-20,USA,Desktop,VIP,Yes,No,566.0,Paid Social,False,False,False,False,False
+CUST1356,CUST1356,2025-11-09,UK,Tablet,Returning,No,No,529.0,Referral,False,False,False,False,False
+CUST1382,CUST1382,2025-12-24,South Korea,Desktop,VIP,Unknown,Yes,2403.0,Direct,False,False,False,False,False
+CUST1455,CUST1455,2026-07-08,Nigeria,Mobile,Returning,No,Yes,220.0,Paid Social,False,False,False,False,False
+CUST1457,CUST1457,2025-06-27,USA,Desktop,Returning,Yes,Unknown,2208.0,Direct,False,False,False,False,False
+CUST1470,CUST1470,2025-09-01,UAE,Desktop,Returning,No,Yes,2327.0,Organic Search,False,False,False,False,False
+CUST1481,CUST1481,2025-06-13,Canada,Tablet,New,No,Yes,1504.0,Organic Search,False,False,False,False,False
+CUST1496,CUST1496,2026-06-30,Australia,Desktop,At-Risk,No,No,2692.0,Email Campaign,False,False,False,False,False
+CUST1507,CUST1507,2026-03-29,Australia,Desktop,VIP,No,Yes,381.0,Affiliate,False,False,False,False,False
+CUST1515,CUST1515,2025-08-02,Canada,Desktop,VIP,Unknown,No,1591.0,Paid Social,False,False,False,False,False
+CUST1533,CUST1533,2026-01-04,Spain,Mobile,At-Risk,No,Yes,2425.0,Referral,False,False,False,False,False
+CUST1550,CUST1550,2026-01-07,Australia,Tablet,New,Unknown,No,223.0,Affiliate,False,False,False,False,False
+CUST1551,CUST1551,2026-02-15,Spain,Tablet,New,No,No,991.0,Referral,False,False,False,False,False
+CUST1563,CUST1563,2025-04-30,Spain,Mobile,At-Risk,Yes,Yes,1819.0,Affiliate,False,False,False,False,False
+CUST1580,CUST1580,2025-04-23,France,Tablet,VIP,No,No,1946.0,Paid Social,False,False,False,False,False
+CUST1605,CUST1605,2025-06-21,NL,Desktop,Returning,Yes,No,1107.0,Organic Search,False,False,False,False,False
+CUST1618,CUST1618,2026-01-11,Canada,Mobile,At-Risk,Yes,Yes,983.0,Affiliate,False,False,False,False,False
+CUST1647,CUST1647,2025-11-03,Spain,Desktop,New,No,No,1267.0,Referral,False,False,False,False,False
+CUST1677,CUST1677,2026-01-24,UK,Mobile,At-Risk,Yes,No,879.0,Direct,False,False,False,False,False
+CUST1693,CUST1693,2026-02-26,USA,Mobile,VIP,No,Yes,4632.0,Paid Social,False,False,False,False,False
+CUST1715,CUST1715,2026-02-02,Canada,Tablet,New,Yes,Yes,3312.0,Paid Social,False,False,False,False,False
+CUST1751,CUST1751,2025-10-08,Germany,Desktop,Returning,No,Yes,118.0,Paid Social,False,False,False,False,False
+CUST1784,CUST1784,2026-02-01,Mexico,Desktop,At-Risk,No,No,1892.0,Referral,False,False,False,False,False
+CUST1788,CUST1788,2025-09-18,UAE,Mobile,New,No,Unknown,722.0,Paid Social,False,False,False,False,False
+CUST1794,1794,2025-09-05,USA,Desktop,VIP,Yes,No,2570.0,Direct,False,False,False,False,True
+CUST1797,CUST1797,2025-09-05,India,Tablet,VIP,Yes,No,4725.0,Referral,False,False,False,False,False
+CUST1820,CUST1820,2026-02-05,Nigeria,Mobile,At-Risk,Yes,Yes,1711.0,Affiliate,False,False,False,False,False
+CUST1824,CUST1824,2025-12-26,Singapore,Desktop,New,Yes,No,1484.0,Organic Search,False,False,False,False,False
+CUST1835,CUST1835,2025-11-15,Spain,Desktop,At-Risk,No,No,2614.0,Affiliate,False,False,False,False,False
+CUST1838,CUST1838,2025-11-19,Australia,Mobile,At-Risk,No,No,4069.0,Referral,False,False,False,False,False
+CUST1841,CUST1841,2026-02-17,UK,Mobile,VIP,No,No,1183.0,Email Campaign,False,False,False,False,False
+CUST1851,CUST1851,2025-12-15,Nigeria,Mobile,At-Risk,Unknown,No,397.0,Email Campaign,False,False,False,False,False
+CUST1877,CUST1877,2025-11-04,UK,Desktop,VIP,Unknown,No,3817.0,Email Campaign,False,False,False,False,False
+CUST1880,CUST1880,2025-09-04,Singapore,Tablet,New,No,Yes,1974.0,Direct,False,False,False,False,False
+CUST1894,CUST1894,2026-06-22,AU,Tablet,At-Risk,No,Yes,2241.0,Email Campaign,False,False,False,False,False
+CUST1896,CUST1896,2026-04-22,US,Mobile,At-Risk,No,No,4946.0,Affiliate,False,False,False,False,False
+CUST1930,CUST1930,2025-09-08,Australia,Mobile,New,Unknown,Unknown,1545.0,Paid Social,False,False,False,False,False
+CUST1931,CUST1931,2026-07-20,UAE,Mobile,VIP,No,Unknown,903.0,Direct,False,False,False,False,False
+CUST1932,CUST1932,2025-05-14,Australia,Mobile,New,Yes,Unknown,3978.0,Affiliate,False,False,False,False,False
+CUST1942,CUST1942,2025-09-11,Spain,Desktop,At-Risk,No,Yes,243.0,Paid Social,False,False,False,False,False
+CUST1950,CUST1950,2026-04-05,Germany,Tablet,VIP,Yes,Yes,2604.0,Referral,False,False,False,False,False
+CUST1972,CUST1972,2026-01-29,South Korea,Tablet,VIP,Yes,Yes,4300.0,Direct,False,False,False,False,False
+CUST1985,CUST1985,2025-08-23,US,Tablet,Returning,No,Yes,3925.0,Direct,False,False,False,False,False
+CUST2033,CUST2033,2026-02-27,Singapore,Mobile,VIP,Yes,Yes,969.0,Affiliate,False,False,False,False,False
+CUST2043,CUST2043,2025-12-06,Germany,Tablet,Loyal,No,Yes,1640.0,Referral,False,False,False,False,False
+CUST2077,CUST2077,2025-10-11,Canada,Desktop,VIP,Yes,Unknown,3383.0,Email Campaign,False,False,False,False,False
+CUST2103,CUST2103,2026-03-07,France,Desktop,VIP,No,Unknown,3091.0,Email Campaign,False,False,False,False,False
+CUST2108,CUST2108,2026-05-16,Canada,Mobile,Standard,No,Yes,1335.0,Affiliate,False,False,False,False,False
+CUST2118,CUST2118,2025-10-04,NL,Tablet,VIP,Yes,No,4287.0,Organic Search,False,False,False,False,False
+CUST2148,CUST2148,2025-11-03,AU,Tablet,VIP,Unknown,No,4689.0,Affiliate,False,False,False,False,False
+CUST2179,CUST2179,2026-01-20,UAE,Desktop,Returning,No,Unknown,1795.0,Referral,False,False,False,False,False
+CUST2180,CUST2180,2026-03-09,Spain,Desktop,VIP,Yes,No,2929.0,Paid Social,False,False,False,False,False
+CUST2186,CUST2186,2025-11-15,South Africa,Desktop,At-Risk,No,No,3987.0,Paid Social,False,False,False,False,False
+CUST2203, CUST2203 ,2025-11-15,India,Mobile,VIP,Yes,No,4074.0,Referral,False,False,False,False,True
+CUST2231,CUST2231,2026-03-21,CA,Tablet,New,Yes,No,4466.0,Paid Social,False,False,False,False,False
+CUST2247,CUST2247,2026-01-23,Germany,Tablet,Returning,No,Yes,2780.0,Organic Search,False,False,False,False,False
+CUST2274,CUST2274,2026-02-15,Canada,Desktop,New,Yes,No,2074.0,Paid Social,False,False,False,False,False
+CUST2298,CUST2298,2025-10-31,UAE,Desktop,New,No,Yes,2760.0,Paid Social,False,False,False,False,False
+CUST2309,CUST2309,2025-05-31,South Korea,Mobile,Loyal,No,Yes,4821.0,Direct,False,False,False,False,False
+CUST2319,CUST2319,2025-05-15,Canada,Tablet,VIP,No,Yes,4561.0,Paid Social,False,False,False,False,False
+CUST2334,CUST2334,2025-09-04,Nigeria,Mobile,At-Risk,No,No,4314.0,Organic Search,False,False,False,False,False
+CUST2355,CUST2355,2025-07-07,India,Tablet,New,No,Yes,1522.0,Referral,False,False,False,False,False
+CUST2359,CUST2359,2026-04-10,UAE,Tablet,Returning,Yes,No,4229.0,Referral,False,False,False,False,False
+CUST2402,CUST2402,2025-11-02,US,Mobile,Returning,Yes,No,4113.0,Affiliate,False,False,False,False,False
+CUST2409,CUST2409,2026-03-05,USA,Desktop,Returning,Unknown,No,1576.0,Affiliate,False,False,False,False,False
+CUST2411,CUST2411,2026-03-23,Australia,Tablet,At-Risk,No,Yes,4153.0,Direct,False,False,False,False,False
+CUST2433,CUST2433,2026-04-13,US,Tablet,New,No,No,2396.0,Affiliate,False,False,False,False,False
+CUST2451,CUST2451,2025-05-16,South Africa,Tablet,At-Risk,Yes,No,2622.0,Direct,False,False,False,False,False
+CUST2473,CUST2473,2026-01-14,Germany,Mobile,VIP,Yes,Yes,191.0,Organic Search,False,False,False,False,False
+CUST2475,CUST2475,2026-02-12,Germany,Desktop,VIP,Yes,Yes,1641.0,Email Campaign,False,False,False,False,False
+CUST2490,CUST2490,2026-02-25,UAE,Tablet,VIP,No,Yes,3554.0,Affiliate,False,False,False,False,False
+CUST2491,CUST2491,2026-01-15,South Africa,Tablet,Returning,Unknown,Yes,1275.0,Affiliate,False,False,False,False,False
+CUST2492,2492,2025-10-06,Germany,Desktop,New,Yes,Yes,3507.0,Affiliate,False,False,False,False,True
+CUST2510,CUST2510,2026-01-23,USA,Mobile,VIP,No,No,1046.0,Paid Social,False,False,False,False,False
+CUST2560,CUST2560,2025-07-22,South Korea,Mobile,At-Risk,Unknown,Yes,3243.0,Affiliate,False,False,False,False,False
+CUST2579,CUST2579,2026-06-13,CA,Tablet,New,No,Yes,1206.0,Referral,False,False,False,False,False
+CUST2606,CUST2606,2026-02-23,AU,Desktop,VIP,Yes,No,750.0,Organic Search,False,False,False,False,False
+CUST2613,CUST2613,2026-05-11,UK,Desktop,Loyal,Yes,No,3277.0,Direct,False,False,False,False,False
+CUST2636,CUST2636,2025-12-16,CA,Desktop,VIP,Yes,Unknown,4.0,Direct,False,False,False,False,False
+CUST2663,CUST2663,2025-12-14,Mexico,Desktop,VIP,No,Yes,3507.0,Organic Search,False,False,False,False,False
+CUST2665,CUST_2665,2025-09-08,CA,Desktop,At-Risk,Yes,No,1244.0,Affiliate,False,False,False,False,True
+CUST2676,CUST2676,2025-07-23,France,Mobile,VIP,Yes,No,3957.0,Direct,False,False,False,False,False
+CUST2683,CUST2683,2025-08-08,UAE,Desktop,VIP,Yes,Yes,4556.0,Affiliate,False,False,False,False,False
+CUST2723,CUST2723,2025-08-14,USA,Tablet,VIP,No,Yes,1187.0,Email Campaign,False,False,False,False,False
+CUST2741,CUST2741,2026-05-29,UAE,Mobile,VIP,Yes,Yes,4901.0,Organic Search,False,False,False,False,False
+CUST2757,CUST2757,2025-09-24,South Korea,Desktop,VIP,No,Yes,1745.0,Referral,False,False,False,False,False
+CUST2764,CUST2764,2025-09-07,UK,Mobile,New,No,Yes,4324.0,Referral,False,False,False,False,False
+CUST2786,CUST2786,2026-02-09,USA,Desktop,Returning,Yes,Yes,538.0,Referral,False,False,False,False,False
+CUST2800,CUST2800,2026-02-27,UK,Desktop,VIP,No,Yes,1880.0,Organic Search,False,False,False,False,False
+CUST2811,CUST2811,2026-05-08,Mexico,Mobile,VIP,No,Yes,4778.0,Email Campaign,False,False,False,False,False
+CUST2850,CUST2850,2026-03-01,AU,Desktop,VIP,Yes,Unknown,2619.0,Paid Social,False,False,False,False,False
+CUST2918,CUST2918,2025-07-13,US,Mobile,VIP,No,Yes,2266.0,Referral,False,False,False,False,False
+CUST2953,CUST2953,2026-05-09,Nigeria,Mobile,VIP,Yes,Yes,1543.0,Organic Search,False,False,False,False,False
+CUST2973,CUST2973,2026-01-01,UAE,Tablet,At-Risk,No,No,1489.0,Direct,False,False,False,False,False
+CUST2974,CUST2974,2025-09-09,Canada,Mobile,Returning,Unknown,Yes,1436.0,Affiliate,False,False,False,False,False
+CUST2999,CUST2999,2025-08-31,Germany,Desktop,VIP,No,Unknown,1237.0,Direct,False,False,False,False,False
+CUST3026,CUST3026,2025-09-01,South Africa,Desktop,At-Risk,Unknown,Unknown,2095.0,Organic Search,False,False,False,False,False
+CUST3039,CUST3039,2025-12-29,France,Mobile,New,Yes,Yes,282.0,Direct,False,False,False,False,False
+CUST3085,CUST3085,2025-08-28,India,Desktop,New,Unknown,Yes,1072.0,Direct,False,False,False,False,False
+CUST3113,CUST3113,2025-08-14,Spain,Tablet,VIP,Yes,Unknown,330.0,Email Campaign,False,False,False,False,False
+CUST3145,CUST3145,2025-07-03,South Africa,Mobile,VIP,No,Unknown,1226.0,Referral,False,False,False,False,False
+CUST3158,CUST3158,2026-02-02,France,Tablet,New,No,No,862.0,Paid Social,False,False,False,False,False
+CUST3162,CUST3162,2026-02-07,Nigeria,Desktop,VIP,Yes,No,180.0,Paid Social,False,False,False,False,False
+CUST3174,CUST3174,2026-06-25,South Africa,Desktop,At-Risk,Yes,Yes,3063.0,Affiliate,False,False,False,False,False
+CUST3191,CUST3191,2026-07-03,UK,Tablet,VIP,Yes,No,905.0,Direct,False,False,False,False,False
+CUST3242,CUST3242,2026-06-23,Canada,Mobile,At-Risk,Yes,Yes,180.0,Direct,False,False,False,False,False
+CUST3288,CUST3288,2026-02-13,AU,Tablet,Returning,Yes,Unknown,2566.0,Affiliate,False,False,False,False,False
+CUST3299,CUST3299,2025-06-07,Spain,Desktop,At-Risk,Yes,Yes,1066.0,Email Campaign,False,False,False,False,False
+CUST3323,CUST3323,2025-11-04,Nigeria,Mobile,Returning,Unknown,No,2850.0,Organic Search,False,False,False,False,False
+CUST3349,CUST3349,2026-04-11,Canada,Mobile,At-Risk,Yes,No,3651.0,Referral,False,False,False,False,False
+CUST3365,CUST3365,2025-12-19,UAE,Mobile,VIP,Yes,No,670.0,Direct,False,False,False,False,False
+CUST3372,CUST3372,2025-10-07,Canada,Tablet,Returning,No,Unknown,3600.0,Paid Social,False,False,False,False,False
+CUST3376,CUST3376,2026-01-16,Australia,Mobile,New,No,Yes,457.0,Email Campaign,False,False,False,False,False
+CUST3377,CUST_3377,2026-02-01,Australia,Mobile,Standard,Yes,No,300.0,Affiliate,False,False,False,False,True
+CUST3386,CUST3386,2025-10-01,UK,Tablet,VIP,Yes,Yes,559.0,Direct,False,False,False,False,False
+CUST3394,CUST3394,2026-07-16,Canada,Mobile,Loyal,Unknown,Yes,1884.0,Email Campaign,False,False,False,False,False
+CUST3408,CUST3408,2025-11-16,UAE,Desktop,Returning,Unknown,No,4513.0,Affiliate,False,False,False,False,False
+CUST3451,CUST3451,2025-08-03,UAE,Mobile,At-Risk,Unknown,No,196.0,Direct,False,False,False,False,False
+CUST3471,CUST3471,2025-11-15,CA,Desktop,Returning,Unknown,No,176.0,Email Campaign,False,False,False,False,False
+CUST3478,CUST3478,2025-10-15,Australia,Desktop,VIP,No,No,4951.0,Affiliate,False,False,False,False,False
+CUST3513,CUST3513,2026-03-09,Australia,Desktop,At-Risk,No,Yes,257.0,Paid Social,False,False,False,False,False
+CUST3559,CUST3559,2025-07-16,South Africa,Desktop,VIP,Yes,Unknown,968.0,Direct,False,False,False,False,False
+CUST3616,CUST3616,2025-12-13,US,Tablet,Returning,No,Yes,1199.0,Paid Social,False,False,False,False,False
+CUST3620,CUST3620,2025-07-16,Australia,Desktop,At-Risk,Yes,Unknown,1693.0,Organic Search,False,False,False,False,False
+CUST3637,CUST3637,2025-07-21,USA,Tablet,At-Risk,No,No,68.0,Affiliate,False,False,False,False,False
+CUST3645,CUST3645,2026-05-18,France,Mobile,VIP,Unknown,Yes,529.0,Organic Search,False,False,False,False,False
+CUST3654,CUST3654,2025-08-17,India,Mobile,New,No,Yes,737.0,Email Campaign,False,False,False,False,False
+CUST3659,CUST3659,2025-06-03,Germany,Mobile,Returning,Yes,Yes,505.0,Email Campaign,False,False,False,False,False
+CUST3681,CUST3681,2026-05-28,France,Tablet,Returning,Yes,No,4965.0,Paid Social,False,False,False,False,False
+CUST3687,CUST3687,2026-02-17,France,Desktop,At-Risk,No,Yes,1182.0,Affiliate,False,False,False,False,False
+CUST3689,CUST3689,2026-04-02,USA,Desktop,Returning,No,No,1341.0,Paid Social,False,False,False,False,False
+CUST3697,CUST3697,2026-03-10,Germany,Desktop,New,Yes,Yes,494.0,Organic Search,False,False,False,False,False
+CUST3712,CUST3712,2026-01-13,Nigeria,Mobile,New,Yes,Unknown,350.0,Direct,False,False,False,False,False
+CUST3727,CUST3727,2025-11-09,South Korea,Mobile,VIP,Yes,Unknown,2771.0,Email Campaign,False,False,False,False,False
+CUST3735,CUST3735,2026-03-20,Australia,Tablet,Returning,Yes,No,754.0,Email Campaign,False,False,False,False,False
+CUST3741,CUST3741,2025-08-21,UK,Desktop,Returning,Yes,Yes,2526.0,Referral,False,False,False,False,False
+CUST3753,CUST3753,2026-04-29,CA,Desktop,New,No,Unknown,3273.0,Direct,False,False,False,False,False
+CUST3754,CUST3754,2025-06-12,South Korea,Desktop,At-Risk,No,Yes,3638.0,Affiliate,False,False,False,False,False
+CUST3823,CUST3823,2025-08-18,Germany,Tablet,VIP,Unknown,No,2487.0,Paid Social,False,False,False,False,False
+CUST3862,CUST3862,2025-08-08,Nigeria,Mobile,VIP,No,Yes,3533.0,Paid Social,False,False,False,False,False
+CUST3895,CUST3895,2025-07-20,DE,Tablet,VIP,No,Yes,1226.0,Email Campaign,False,False,False,False,False
+CUST3923,CUST3923,2025-11-24,Mexico,Tablet,Returning,No,Yes,559.0,Direct,False,False,False,False,False
+CUST3943,CUST3943,2025-08-19,Nigeria,Mobile,New,No,No,2140.0,Paid Social,False,False,False,False,False
+CUST3960,CUST3960,2026-05-01,USA,Desktop,VIP,No,No,2975.0,Organic Search,False,False,False,False,False
+CUST3961,CUST3961,2025-07-21,JP,Desktop,New,No,Unknown,3141.0,Organic Search,False,False,False,False,False
+CUST3986,CUST3986,2025-11-07,USA,Mobile,VIP,No,No,847.0,Email Campaign,False,False,False,False,False
+CUST4011,CUST4011,2026-01-03,UK,Tablet,New,No,No,2975.0,Organic Search,False,False,False,False,False
+CUST4027,CUST4027,2026-01-17,Singapore,Tablet,At-Risk,Yes,No,776.0,Referral,False,False,False,False,False
+CUST4041,CUST4041,2025-08-25,India,Tablet,At-Risk,Yes,No,2988.0,Direct,False,False,False,False,False
+CUST4043,CUST4043,2026-04-02,Mexico,Tablet,New,No,Yes,4312.0,Paid Social,False,False,False,False,False
+CUST4048,CUST4048,2025-11-23,Germany,Desktop,New,No,No,1855.0,Direct,False,False,False,False,False
+CUST4081,CUST4081,2025-08-17,Australia,Desktop,Returning,Unknown,Unknown,3873.0,Email Campaign,False,False,False,False,False
+CUST4083,CUST4083,2025-06-20,Australia,Desktop,VIP,No,No,279.0,Email Campaign,False,False,False,False,False
+CUST4085,CUST4085,2025-08-03,Germany,Mobile,Returning,No,Yes,2981.0,Referral,False,False,False,False,False
+CUST4111,CUST4111,2026-03-13,USA,Desktop,At-Risk,No,No,1423.0,Email Campaign,False,False,False,False,False
+CUST4140,CUST4140,2025-10-17,USA,Tablet,At-Risk,Yes,Yes,2954.0,Referral,False,False,False,False,False
+CUST4144,CUST4144,2025-06-18,South Korea,Desktop,At-Risk,Yes,No,1483.0,Paid Social,False,False,False,False,False
+CUST4155,CUST4155,2025-06-23,Nigeria,Mobile,At-Risk,No,Yes,1053.0,Email Campaign,False,False,False,False,False
+CUST4164,CUST4164,2025-06-06,Germany,Mobile,Returning,No,No,1587.0,Organic Search,False,False,False,False,False
+CUST4196,CUST4196,2025-09-03,South Korea,Desktop,Standard,No,Yes,4393.0,Affiliate,False,False,False,False,False
+CUST4197,CUST4197,2026-01-26,UK,Mobile,New,Yes,Yes,2041.0,Direct,False,False,False,False,False
+CUST4207,CUST4207,2025-11-25,Mexico,Tablet,At-Risk,Unknown,Yes,4442.0,Direct,False,False,False,False,False
+CUST4214,CUST4214,2026-01-17,South Africa,Tablet,VIP,Unknown,Yes,461.0,Affiliate,False,False,False,False,False
+CUST4216,CUST4216,2025-11-03,Spain,Tablet,New,Unknown,Unknown,985.0,Organic Search,False,False,False,False,False
+CUST4223,CUST4223,2025-04-22,India,Tablet,New,Yes,No,2447.0,Referral,False,False,False,False,False
+CUST4248,CUST4248,2026-07-29,India,Mobile,New,Yes,Unknown,2375.0,Referral,False,False,False,False,False
+CUST4252,CUST4252,2026-05-08,France,Desktop,Returning,No,Yes,32.0,Affiliate,False,False,False,False,False
+CUST4265,CUST4265,2026-06-30,Spain,Desktop,VIP,Unknown,Unknown,381.0,Direct,False,False,False,False,False
+CUST4274,CUST4274,2025-07-26,Spain,Tablet,Returning,No,No,4010.0,Organic Search,False,False,False,False,False
+CUST4310,CUST4310,2025-10-31,France,Desktop,New,No,Yes,4898.0,Direct,False,False,False,False,False
+CUST4319,CUST4319,2025-08-07,US,Desktop,New,Yes,Yes,3056.0,Affiliate,False,False,False,False,False
+CUST4333,CUST4333,2025-02-24,JP,Tablet,At-Risk,Yes,No,3611.0,Organic Search,False,False,False,False,False
+CUST4370,CUST4370,2025-10-17,USA,Mobile,New,No,No,4804.0,Referral,False,False,False,False,False
+CUST4372,CUST4372,2025-09-11,South Korea,Mobile,New,Unknown,No,4982.0,Referral,False,False,False,False,False
+CUST4374,CUST4374,2026-01-26,Nigeria,Mobile,Returning,No,Unknown,867.0,Email Campaign,False,False,False,False,False
+CUST4416,CUST4416,2026-01-02,USA,Tablet,Standard,Yes,No,2709.0,Paid Social,False,False,False,False,False
+CUST4423,CUST4423,2025-10-10,JP,Mobile,New,Yes,No,3899.0,Direct,False,False,False,False,False
+CUST4430,CUST4430,2026-04-21,Spain,Desktop,Returning,No,Yes,4333.0,Direct,False,False,False,False,False
+CUST4437,CUST4437,2026-06-14,FR,Tablet,New,Unknown,No,1048.0,Email Campaign,False,False,False,False,False
+CUST4452,CUST4452,2026-01-21,Singapore,Tablet,Returning,No,No,9.0,Direct,False,False,False,False,False
+CUST4473,CUST4473,2025-10-29,India,Tablet,At-Risk,Unknown,Yes,3378.0,Paid Social,False,False,False,False,False
+CUST4491,CUST4491,2025-09-19,FR,Desktop,Returning,Unknown,Yes,84.0,Referral,False,False,False,False,False
+CUST4492,CUST4492,2026-05-27,Nigeria,Mobile,VIP,Unknown,Unknown,4686.0,Referral,False,False,False,False,False
+CUST4546,CUST4546,2025-08-05,Mexico,Tablet,VIP,Yes,No,612.0,Affiliate,False,False,False,False,False
+CUST4555,CUST4555,2026-03-12,Nigeria,Desktop,VIP,No,No,1770.0,Email Campaign,False,False,False,False,False
+CUST4569,CUST4569,2026-06-27,USA,Tablet,New,Yes,Unknown,972.0,Organic Search,False,False,False,False,False
+CUST4573,CUST4573,2025-05-10,Singapore,Tablet,Returning,Yes,No,3760.0,Referral,False,False,False,False,False
+CUST4616,CUST4616,2025-08-16,South Korea,Tablet,Returning,Unknown,No,1624.0,Paid Social,False,False,False,False,False
+CUST4622,CUST4622,2025-12-02,Australia,Mobile,VIP,Yes,No,1613.0,Organic Search,False,False,False,False,False
+CUST4624,CUST4624,2026-02-05,Singapore,Tablet,At-Risk,Yes,No,3867.0,Organic Search,False,False,False,False,False
+CUST4628,CUST4628,2026-05-05,Singapore,Tablet,Returning,Yes,No,4139.0,Organic Search,False,False,False,False,False
+CUST4631,CUST4631,2025-07-28,India,Mobile,New,No,Unknown,1108.0,Organic Search,False,False,False,False,False
+CUST4640,CUST4640,2025-12-25,NL,Mobile,New,No,No,3463.0,Paid Social,False,False,False,False,False
+CUST4663,CUST4663,2026-04-23,South Korea,Mobile,New,No,Yes,311.0,Organic Search,False,False,False,False,False
+CUST4665,CUST4665,2026-03-22,Spain,Tablet,Returning,Yes,Unknown,187.0,Affiliate,False,False,False,False,False
+CUST4702,CUST4702,2026-05-05,UAE,Mobile,At-Risk,Yes,Unknown,4260.0,Organic Search,False,False,False,False,False
+CUST4727,CUST4727,2026-03-18,South Africa,Desktop,At-Risk,No,No,3398.0,Organic Search,False,False,False,False,False
+CUST4745,4745,2026-02-15,South Korea,Desktop,New,Yes,No,1848.0,Referral,False,False,False,False,True
+CUST4756,CUST4756,2025-11-22,India,Mobile,New,Unknown,Unknown,3723.0,Referral,False,False,False,False,False
+CUST4775,CUST4775,2026-05-13,Mexico,Tablet,VIP,Yes,Yes,1865.0,Paid Social,False,False,False,False,False
+CUST4780,CUST4780,2025-12-03,Australia,Tablet,VIP,No,Yes,2019.0,Referral,False,False,False,False,False
+CUST4800,CUST4800,2025-08-19,France,Tablet,Returning,No,Unknown,3478.0,Affiliate,False,False,False,False,False
+CUST4834,CUST4834,2026-04-16,Canada,Desktop,At-Risk,Yes,No,1894.0,Affiliate,False,False,False,False,False
+CUST4868,4868,2025-12-11,DE,Tablet,At-Risk,Yes,Yes,3391.0,Affiliate,False,False,False,False,True
+CUST4898,CUST4898,2026-07-22,Canada,Desktop,VIP,Unknown,No,1783.0,Affiliate,False,False,False,False,False
+CUST4903,CUST4903,2025-10-25,France,Mobile,New,Yes,No,2970.0,Paid Social,False,False,False,False,False
+CUST4906,CUST4906,2026-04-27,USA,Mobile,Returning,No,No,1496.0,Paid Social,False,False,False,False,False
+CUST4921,CUST4921,2025-07-26,Mexico,Mobile,Returning,Yes,No,4162.0,Email Campaign,False,False,False,False,False
+CUST4930,CUST4930,2025-12-02,South Korea,Desktop,At-Risk,Yes,Yes,2979.0,Direct,False,False,False,False,False
+CUST4936,CUST4936,2026-04-10,Singapore,Mobile,At-Risk,Yes,Unknown,819.0,Email Campaign,False,False,False,False,False
+CUST4942,CUST4942,2026-07-21,AU,Desktop,At-Risk,Yes,No,2529.0,Direct,False,False,False,False,False
+CUST4969,CUST4969,2025-06-21,Nigeria,Mobile,VIP,No,Yes,1286.0,Referral,False,False,False,False,False
+CUST4970,CUST4970,2026-03-06,Singapore,Mobile,VIP,No,No,138.0,Organic Search,False,False,False,False,False
+CUST4987,CUST4987,2025-05-09,Singapore,Desktop,At-Risk,Yes,Yes,98.0,Paid Social,False,False,False,False,False
+CUST5053,CUST5053,2026-03-12,Germany,Mobile,At-Risk,Unknown,Yes,2141.0,Direct,False,False,False,False,False
+CUST5100,CUST5100,2025-11-15,Nigeria,Desktop,Returning,No,Yes,935.0,Affiliate,False,False,False,False,False
+CUST5125,CUST5125,2026-03-05,USA,Mobile,New,Yes,Yes,2535.0,Direct,False,False,False,False,False
+CUST5127,CUST5127,2025-04-01,Spain,Tablet,Returning,Yes,Yes,3977.0,Direct,False,False,False,False,False
+CUST5132,CUST5132,2026-01-23,South Africa,Tablet,New,Yes,Yes,1166.0,Paid Social,False,False,False,False,False
+CUST5146,CUST5146,2025-07-04,Mexico,Desktop,At-Risk,No,Yes,4532.0,Email Campaign,False,False,False,False,False
+CUST5153,CUST5153,2025-05-06,USA,Desktop,New,Yes,No,4228.0,Direct,False,False,False,False,False
+CUST5162,CUST5162,2025-04-16,CA,Desktop,Returning,Yes,Unknown,1869.0,Referral,False,False,False,False,False
+CUST5187,CUST5187,2025-05-16,Germany,Desktop,VIP,Unknown,Yes,1417.0,Paid Social,False,False,False,False,False
+CUST5210,CUST5210,2025-03-17,Canada,Desktop,VIP,Yes,No,1511.0,Organic Search,False,False,False,False,False
+CUST5220,CUST5220,2026-04-01,NL,Tablet,Returning,No,Unknown,869.0,Affiliate,False,False,False,False,False
+CUST5233,CUST5233,2025-04-26,South Korea,Tablet,New,No,No,1591.0,Direct,False,False,False,False,False
+CUST5263,CUST5263,2026-04-25,South Korea,Tablet,VIP,No,No,3541.0,Organic Search,False,False,False,False,False
+CUST5270,CUST5270,2025-09-21,USA,Tablet,At-Risk,Yes,Yes,1463.0,Email Campaign,False,False,False,False,False
+CUST5284,CUST5284,2026-06-24,South Africa,Desktop,New,No,No,3092.0,Affiliate,False,False,False,False,False
+CUST5298,CUST5298,2026-07-08,Australia,Mobile,Standard,Yes,No,3021.0,Paid Social,False,False,False,False,False
+CUST5313,CUST5313,2026-06-01,India,Tablet,At-Risk,Yes,Yes,3570.0,Paid Social,False,False,False,False,False
+CUST5332,CUST5332,2025-11-20,Germany,Mobile,At-Risk,Yes,Yes,1707.0,Direct,False,False,False,False,False
+CUST5337,CUST5337,2026-02-23,JP,Mobile,New,No,Yes,2072.0,Organic Search,False,False,False,False,False
+CUST5344,CUST5344,2025-08-29,FR,Tablet,VIP,Yes,No,1261.0,Paid Social,False,False,False,False,False
+CUST5353,CUST_5353,2026-01-05,Nigeria,Desktop,New,Yes,No,1437.0,Referral,False,False,False,False,True
+CUST5364,CUST5364,2025-04-21,Canada,Mobile,Standard,No,Yes,1733.0,Affiliate,False,False,False,False,False
+CUST5406,CUST5406,2025-12-28,Mexico,Desktop,VIP,Yes,No,384.0,Referral,False,False,False,False,False
+CUST5447,CUST5447,2026-04-19,South Africa,Desktop,At-Risk,Yes,Yes,1524.0,Direct,False,False,False,False,False
+CUST5455,CUST5455,2026-02-02,AU,Desktop,At-Risk,Unknown,No,3826.0,Affiliate,False,False,False,False,False
+CUST5478,CUST5478,2025-11-15,Canada,Desktop,At-Risk,No,Yes,4524.0,Paid Social,False,False,False,False,False
+CUST5495,CUST5495,2026-03-22,UK,Tablet,Returning,Yes,Yes,4092.0,Organic Search,False,False,False,False,False
+CUST5505,CUST5505,2025-06-26,South Africa,Tablet,VIP,No,Yes,1650.0,Referral,False,False,False,False,False
+CUST5519,CUST5519,2025-05-13,Spain,Desktop,VIP,Yes,No,1189.0,Referral,False,False,False,False,False
+CUST5546,CUST5546,2025-12-28,AU,Desktop,Standard,No,Unknown,2718.0,Direct,False,False,False,False,False
+CUST5557,CUST5557,2026-06-22,South Africa,Tablet,At-Risk,No,No,72.0,Paid Social,False,False,False,False,False
+CUST5561,CUST5561,2026-02-22,Mexico,Mobile,VIP,Yes,No,3629.0,Affiliate,False,False,False,False,False
+CUST5565,CUST5565,2025-10-19,South Africa,Tablet,New,No,No,2433.0,Affiliate,False,False,False,False,False
+CUST5577,CUST5577,2025-04-12,Germany,Tablet,Loyal,No,No,4393.0,Paid Social,False,False,False,False,False
+CUST5601,CUST5601,2025-07-28,CA,Mobile,New,Yes,No,3415.0,Email Campaign,False,False,False,False,False
+CUST5607,CUST5607,2025-07-31,UK,Tablet,VIP,Yes,No,1736.0,Referral,False,False,False,False,False
+CUST5622,CUST5622,2025-10-25,France,Desktop,VIP,Yes,Unknown,1191.0,Affiliate,False,False,False,False,False
+CUST5689,CUST5689,2026-01-20,Canada,Desktop,VIP,Unknown,No,1685.0,Paid Social,False,False,False,False,False
+CUST5691,CUST5691,2025-06-09,Singapore,Mobile,Loyal,Unknown,Yes,1453.0,Email Campaign,False,False,False,False,False
+CUST5692,CUST5692,2025-06-26,Australia,Tablet,Standard,No,No,2551.0,Email Campaign,False,False,False,False,False
+CUST5717,CUST5717,2026-02-08,Australia,Desktop,Returning,Unknown,Unknown,104.0,Referral,False,False,False,False,False
+CUST5740,CUST5740,2025-06-24,Nigeria,Tablet,New,No,No,4394.0,Affiliate,False,False,False,False,False
+CUST5768,CUST5768,2025-07-28,Canada,Desktop,VIP,No,Yes,4442.0,Paid Social,False,False,False,False,False
+CUST5775,cust5775,2025-09-20,Australia,Mobile,New,Yes,Yes,3450.0,Paid Social,False,False,False,False,True
+CUST5799,CUST5799,2026-02-01,Germany,Desktop,VIP,Unknown,Yes,3637.0,Referral,False,False,False,False,False
+CUST5801,CUST5801,2025-11-16,Canada,Mobile,Returning,Yes,No,56.0,Direct,False,False,False,False,False
+CUST5813,CUST5813,2025-05-28,France,Mobile,Returning,No,No,4558.0,Paid Social,False,False,False,False,False
+CUST5831,CUST5831,2025-09-08,USA,Desktop,VIP,Unknown,Yes,2379.0,Organic Search,False,False,False,False,False
+CUST5845,CUST5845,2025-10-24,NL,Mobile,New,No,Yes,3155.0,Referral,False,False,False,False,False
+CUST5878,CUST5878,2025-11-01,India,Mobile,New,No,No,393.0,Affiliate,False,False,False,False,False
+CUST5906,CUST5906,2026-03-15,Germany,Desktop,Returning,No,No,1266.0,Paid Social,False,False,False,False,False
+CUST5909,CUST5909,2025-11-19,Canada,Desktop,Standard,No,No,3999.0,Paid Social,False,False,False,False,False
+CUST5911,CUST5911,2025-11-15,UK,Mobile,New,Yes,No,1221.0,Paid Social,False,False,False,False,False
+CUST5916,CUST5916,2025-03-22,South Africa,Mobile,At-Risk,Yes,No,3454.0,Organic Search,False,False,False,False,False
+CUST5959,CUST5959,2025-08-06,JP,Tablet,Loyal,No,Yes,3094.0,Direct,False,False,False,False,False
+CUST5966,CUST5966,2025-12-09,JP,Tablet,Returning,No,Unknown,2461.0,Organic Search,False,False,False,False,False
+CUST6056,CUST6056,2026-04-15,Germany,Desktop,Returning,Yes,No,1517.0,Affiliate,False,False,False,False,False
+CUST6066,CUST6066,2026-01-24,Mexico,Desktop,New,Yes,Yes,4014.0,Referral,False,False,False,False,False
+CUST6069,CUST6069,2025-09-21,GB,Tablet,New,Yes,Yes,1492.0,Referral,False,False,False,False,False
+CUST6072,CUST6072,2025-12-20,AU,Tablet,Returning,No,Yes,1500.0,Email Campaign,False,False,False,False,False
+CUST6099,CUST6099,2025-09-23,Singapore,Tablet,VIP,Yes,Unknown,4016.0,Organic Search,False,False,False,False,False
+CUST6119,CUST6119,2025-05-03,India,Desktop,Returning,No,Unknown,2798.0,Referral,False,False,False,False,False
+CUST6135,CUST6135,2025-12-14,Mexico,Mobile,New,Unknown,Unknown,2926.0,Direct,False,False,False,False,False
+CUST6185,CUST6185,2026-01-01,India,Desktop,New,Yes,Yes,96.0,Organic Search,False,False,False,False,False
+CUST6214,CUST6214,2025-06-12,Australia,Mobile,VIP,Yes,No,1153.0,Affiliate,False,False,False,False,False
+CUST6218,CUST6218,2026-02-03,USA,Desktop,Loyal,No,Yes,1543.0,Referral,False,False,False,False,False
+CUST6307,CUST6307,2026-02-23,Canada,Tablet,Returning,No,Yes,135.0,Email Campaign,False,False,False,False,False
+CUST6314,CUST6314,2026-01-22,UAE,Desktop,VIP,Yes,Unknown,4594.0,Referral,False,False,False,False,False
+CUST6350,CUST6350,2025-05-23,France,Mobile,New,No,Yes,625.0,Organic Search,False,False,False,False,False
+CUST6352,6352,2025-12-23,South Africa,Tablet,VIP,Yes,Yes,1921.0,Direct,False,False,False,False,True
+CUST6374,CUST6374,2026-03-27,Canada,Desktop,Returning,No,No,1215.0,Organic Search,False,False,False,False,False
+CUST6389,CUST6389,2025-09-20,UK,Desktop,VIP,Unknown,Yes,3268.0,Direct,False,False,False,False,False
+CUST6394,CUST6394,2025-09-27,Germany,Mobile,VIP,Yes,No,1690.0,Email Campaign,False,False,False,False,False
+CUST6434,CUST6434,2025-11-14,South Africa,Mobile,Returning,No,No,2990.0,Direct,False,False,False,False,False
+CUST6439,CUST6439,2025-05-15,UAE,Mobile,VIP,Yes,Unknown,2987.0,Email Campaign,False,False,False,False,False
+CUST6480,CUST6480,2026-03-12,Germany,Tablet,At-Risk,Yes,No,4273.0,Affiliate,False,False,False,False,False
+CUST6563,CUST6563,2025-12-08,Germany,Mobile,VIP,Yes,No,1559.0,Referral,False,False,False,False,False
+CUST6578,CUST6578,2025-10-23,USA,Tablet,VIP,No,Yes,4664.0,Referral,False,False,False,False,False
+CUST6599,CUST6599,2025-09-05,DE,Desktop,Loyal,Yes,Yes,1029.0,Organic Search,False,False,False,False,False
+CUST6614,CUST6614,2025-06-01,Spain,Desktop,At-Risk,Yes,No,1986.0,Paid Social,False,False,False,False,False
+CUST6637,CUST6637,2026-06-20,France,Mobile,At-Risk,No,Unknown,3709.0,Affiliate,False,False,False,False,False
+CUST6640,CUST6640,2025-02-23,Mexico,Desktop,At-Risk,Yes,No,286.0,Direct,False,False,False,False,False
+CUST6654,CUST6654,2025-10-01,Spain,Mobile,VIP,Yes,Yes,2591.0,Email Campaign,False,False,False,False,False
+CUST6688,CUST6688,2026-04-18,Spain,Mobile,Returning,No,Unknown,3135.0,Direct,False,False,False,False,False
+CUST6700,CUST6700,2025-12-08,FR,Tablet,New,No,Yes,975.0,Affiliate,False,False,False,False,False
+CUST6721,CUST6721,2025-10-31,DE,Desktop,New,Yes,Yes,134.0,Direct,False,False,False,False,False
+CUST6729,CUST6729,2026-01-10,Canada,Desktop,VIP,Yes,No,2120.0,Referral,False,False,False,False,False
+CUST6745,CUST6745,2026-02-06,UAE,Tablet,At-Risk,Unknown,Yes,492.0,Referral,False,False,False,False,False
+CUST6749,CUST6749,2025-05-15,Canada,Tablet,New,Yes,Yes,4651.0,Affiliate,False,False,False,False,False
+CUST6757,CUST6757,2026-03-07,Canada,Desktop,New,No,Yes,2638.0,Organic Search,False,False,False,False,False
+CUST6758,cust6758,2025-08-07,Canada,Tablet,New,No,Unknown,1545.0,Organic Search,False,False,False,False,True
+CUST6774,CUST6774,2026-05-25,South Korea,Desktop,At-Risk,No,Yes,1458.0,Organic Search,False,False,False,False,False
+CUST6777,CUST6777,2025-06-02,Spain,Desktop,Returning,Unknown,Yes,592.0,Referral,False,False,False,False,False
+CUST6791,CUST6791,2026-04-01,Germany,Tablet,New,Yes,Yes,3710.0,Direct,False,False,False,False,False
+CUST6798,CUST6798,2025-11-30,USA,Desktop,New,Unknown,No,2555.0,Direct,False,False,False,False,False
+CUST6819,CUST6819,2025-09-10,South Korea,Mobile,New,Unknown,Yes,2708.0,Organic Search,False,False,False,False,False
+CUST6880,CUST6880,2026-03-10,UAE,Tablet,At-Risk,Unknown,Yes,1011.0,Organic Search,False,False,False,False,False
+CUST6894,CUST6894,2025-09-16,Nigeria,Tablet,Returning,No,No,3565.0,Direct,False,False,False,False,False
+CUST6927,CUST6927,2025-06-06,Nigeria,Mobile,Returning,Yes,No,3816.0,Email Campaign,False,False,False,False,False
+CUST6938,CUST6938,2026-07-06,France,Desktop,VIP,Yes,Yes,868.0,Email Campaign,False,False,False,False,False
+CUST6942,CUST6942,2025-11-15,CA,Tablet,At-Risk,Yes,No,824.0,Referral,False,False,False,False,False
+CUST6943,CUST6943,2026-01-21,Australia,Desktop,VIP,Unknown,Yes,2194.0,Direct,False,False,False,False,False
+CUST6946,CUST6946,2025-09-13,UAE,Mobile,VIP,No,Unknown,117.0,Referral,False,False,False,False,False
+CUST6975,CUST6975,2026-03-25,Australia,Mobile,Loyal,Yes,No,960.0,Email Campaign,False,False,False,False,False
+CUST6990,CUST6990,2025-09-13,Germany,Tablet,VIP,No,Yes,294.0,Organic Search,False,False,False,False,False
+CUST6994,CUST6994,2025-09-18,Mexico,Mobile,New,Yes,Yes,4814.0,Email Campaign,False,False,False,False,False
+CUST7012,CUST7012,2026-02-13,Singapore,Mobile,At-Risk,Unknown,No,729.0,Email Campaign,False,False,False,False,False
+CUST7074,CUST7074,2026-07-07,Germany,Mobile,VIP,No,Yes,4954.0,Email Campaign,False,False,False,False,False
+CUST7075,CUST7075,2026-02-23,FR,Desktop,At-Risk,No,Yes,716.0,Referral,False,False,False,False,False
+CUST7143,CUST7143,2025-06-10,France,Tablet,New,No,Yes,983.0,Direct,False,False,False,False,False
+CUST7155,CUST7155,2025-10-28,USA,Tablet,VIP,Yes,Yes,219.0,Email Campaign,False,False,False,False,False
+CUST7158,CUST7158,2026-05-13,UAE,Tablet,Returning,Unknown,No,173.0,Affiliate,False,False,False,False,False
+CUST7162,CUST7162,2025-06-22,AU,Desktop,Returning,Yes,Unknown,1942.0,Email Campaign,False,False,False,False,False
+CUST7176,CUST7176,2026-03-24,South Korea,Tablet,VIP,No,No,4636.0,Direct,False,False,False,False,False
+CUST7179,CUST7179,2025-08-07,France,Tablet,VIP,Unknown,Yes,1517.0,Paid Social,False,False,False,False,False
+CUST7206,CUST7206,2026-02-27,Australia,Mobile,VIP,Unknown,No,3165.0,Affiliate,False,False,False,False,False
+CUST7233,CUST7233,2026-05-25,Nigeria,Desktop,Returning,Yes,Unknown,2994.0,Paid Social,False,False,False,False,False
+CUST7272,CUST7272,2025-08-31,Spain,Tablet,At-Risk,No,Yes,835.0,Referral,False,False,False,False,False
+CUST7287,CUST7287,2026-01-24,France,Tablet,At-Risk,Yes,No,1639.0,Organic Search,False,False,False,False,False
+CUST7296,CUST7296,2025-09-30,India,Tablet,New,No,Unknown,3693.0,Direct,False,False,False,False,False
+CUST7300,CUST7300,2025-04-21,India,Mobile,Returning,Unknown,No,846.0,Paid Social,False,False,False,False,False
+CUST7313,CUST7313,2025-08-28,Spain,Mobile,At-Risk,Yes,No,790.0,Direct,False,False,False,False,False
+CUST7321,CUST7321,2025-08-30,UAE,Tablet,At-Risk,Yes,No,86.0,Email Campaign,False,False,False,False,False
+CUST7342,CUST7342,2025-09-11,USA,Mobile,At-Risk,Unknown,No,2879.0,Organic Search,False,False,False,False,False
+CUST7355,CUST7355,2025-07-29,Mexico,Tablet,Returning,Yes,No,4323.0,Referral,False,False,False,False,False
+CUST7371,CUST7371,2026-02-14,Germany,Tablet,VIP,No,Yes,4730.0,Direct,False,False,False,False,False
+CUST7386,CUST7386,2025-12-09,South Africa,Desktop,New,Unknown,No,1954.0,Referral,False,False,False,False,False
+CUST7396,CUST7396,2026-04-28,Singapore,Desktop,At-Risk,No,No,671.0,Paid Social,False,False,False,False,False
+CUST7405,CUST7405,2025-06-24,USA,Mobile,VIP,No,No,1809.0,Email Campaign,False,False,False,False,False
+CUST7421,CUST7421,2025-07-28,AU,Desktop,New,Yes,Yes,1087.0,Paid Social,False,False,False,False,False
+CUST7427,CUST7427,2025-07-23,UK,Tablet,Returning,No,No,628.0,Organic Search,False,False,False,False,False
+CUST7428,CUST7428,2026-03-27,Nigeria,Mobile,New,Unknown,Yes,2811.0,Referral,False,False,False,False,False
+CUST7463,CUST7463,2025-10-08,Canada,Desktop,At-Risk,Unknown,Yes,3772.0,Organic Search,False,False,False,False,False
+CUST7468,CUST7468,2025-09-29,Nigeria,Tablet,At-Risk,No,Yes,1291.0,Affiliate,False,False,False,False,False
+CUST7489,CUST7489,2026-02-03,Australia,Desktop,New,No,No,403.0,Referral,False,False,False,False,False
+CUST7514,CUST7514,2026-06-29,Singapore,Tablet,VIP,Yes,No,2952.0,Email Campaign,False,False,False,False,False
+CUST7535,CUST7535,2025-05-24,JP,Tablet,Returning,Yes,No,1354.0,Organic Search,False,False,False,False,False
+CUST7537,CUST7537,2025-07-18,Spain,Tablet,Returning,Yes,No,2138.0,Email Campaign,False,False,False,False,False
+CUST7546,CUST7546,2025-03-04,UAE,Mobile,VIP,Yes,No,3443.0,Email Campaign,False,False,False,False,False
+CUST7554,CUST7554,2026-01-12,Nigeria,Tablet,VIP,No,No,1927.0,Affiliate,False,False,False,False,False
+CUST7555,CUST7555,2025-08-17,Canada,Mobile,At-Risk,Unknown,No,870.0,Paid Social,False,False,False,False,False
+CUST7559,CUST7559,2025-11-25,India,Desktop,At-Risk,No,No,3369.0,Direct,False,False,False,False,False
+CUST7574,CUST7574,2025-07-13,USA,Mobile,Returning,Yes,Yes,1188.0,Paid Social,False,False,False,False,False
+CUST7576,CUST7576,2025-12-26,Spain,Mobile,Returning,Unknown,Yes,3469.0,Direct,False,False,False,False,False
+CUST7583,CUST7583,2025-08-26,Canada,Desktop,Returning,No,Yes,4595.0,Referral,False,False,False,False,False
+CUST7608,CUST7608,2026-02-06,Germany,Mobile,VIP,No,Unknown,1042.0,Paid Social,False,False,False,False,False
+CUST7635,CUST7635,2026-04-18,Singapore,Tablet,VIP,Yes,No,2200.0,Direct,False,False,False,False,False
+CUST7651,CUST7651,2026-01-25,Singapore,Desktop,New,No,Yes,3073.0,Referral,False,False,False,False,False
+CUST7749,CUST7749,2025-11-23,South Korea,Desktop,Returning,Yes,Unknown,1332.0,Affiliate,False,False,False,False,False
+CUST7769,CUST7769,2025-08-02,South Korea,Mobile,New,Unknown,No,1636.0,Referral,False,False,False,False,False
+CUST7809,CUST7809,2026-03-20,NL,Tablet,New,No,Yes,4338.0,Affiliate,False,False,False,False,False
+CUST7816,CUST7816,2025-07-18,CA,Mobile,At-Risk,No,No,1570.0,Paid Social,False,False,False,False,False
+CUST7832,CUST7832,2025-10-22,Canada,Desktop,Returning,No,Yes,4320.0,Referral,False,False,False,False,False
+CUST7882,CUST7882,2026-01-15,Germany,Desktop,At-Risk,Unknown,Yes,2213.0,Direct,False,False,False,False,False
+CUST7907,CUST7907,2025-10-08,JP,Desktop,New,Yes,No,3370.0,Affiliate,False,False,False,False,False
+CUST7909,CUST7909,2025-10-19,USA,Desktop,Returning,Yes,Yes,636.0,Email Campaign,False,False,False,False,False
+CUST7918,CUST7918,2025-11-10,CA,Mobile,VIP,No,No,2763.0,Paid Social,False,False,False,False,False
+CUST7955,CUST7955,2025-07-24,UAE,Mobile,New,Yes,No,663.0,Affiliate,False,False,False,False,False
+CUST7957,CUST7957,2026-05-03,South Korea,Mobile,New,Unknown,Yes,4988.0,Direct,False,False,False,False,False
+CUST7966,CUST7966,2025-06-21,JP,Desktop,Loyal,Unknown,No,3144.0,Email Campaign,False,False,False,False,False
+CUST7986,CUST7986,2025-09-05,Germany,Mobile,VIP,Yes,Yes,885.0,Affiliate,False,False,False,False,False
+CUST8013,CUST8013,2025-07-21,India,Mobile,Returning,No,Yes,1777.0,Direct,False,False,False,False,False
+CUST8136,CUST8136,2025-11-09,Mexico,Tablet,VIP,Yes,Yes,1458.0,Referral,False,False,False,False,False
+CUST8162,CUST8162,2026-06-12,Germany,Mobile,VIP,No,Yes,1906.0,Referral,False,False,False,False,False
+CUST8270,CUST8270,2025-12-23,FR,Tablet,At-Risk,Yes,No,3128.0,Organic Search,False,False,False,False,False
+CUST8303,CUST8303,2025-08-06,Singapore,Mobile,At-Risk,No,Unknown,3751.0,Affiliate,False,False,False,False,False
+CUST8312,CUST8312,2026-03-11,India,Tablet,Returning,Yes,No,254.0,Affiliate,False,False,False,False,False
+CUST8321,CUST8321,2025-08-19,Canada,Mobile,VIP,Unknown,No,3672.0,Paid Social,False,False,False,False,False
+CUST8323,CUST8323,2026-01-01,France,Mobile,Returning,Unknown,Unknown,405.0,Email Campaign,False,False,False,False,False
+CUST8329,CUST8329,2025-10-20,Canada,Desktop,At-Risk,No,Yes,915.0,Affiliate,False,False,False,False,False
+CUST8349,CUST8349,2025-11-11,UK,Desktop,VIP,No,No,4498.0,Paid Social,False,False,False,False,False
+CUST8372,CUST8372,2025-07-01,South Africa,Tablet,Returning,No,No,4581.0,Referral,False,False,False,False,False
+CUST8376,CUST8376,2025-04-07,Mexico,Desktop,VIP,No,Yes,484.0,Affiliate,False,False,False,False,False
+CUST8395,CUST8395,2026-02-09,USA,Desktop,Standard,No,Yes,558.0,Organic Search,False,False,False,False,False
+CUST8413,CUST8413,2025-11-30,South Africa,Tablet,VIP,Yes,No,153.0,Affiliate,False,False,False,False,False
+CUST8417,CUST8417,2025-12-11,UK,Mobile,At-Risk,No,Yes,3205.0,Direct,False,False,False,False,False
+CUST8422,CUST8422,2026-01-17,CA,Mobile,Returning,Yes,No,3332.0,Referral,False,False,False,False,False
+CUST8434,CUST8434,2025-07-04,Singapore,Desktop,New,Unknown,No,364.0,Direct,False,False,False,False,False
+CUST8447,CUST8447,2026-04-27,France,Desktop,VIP,No,Yes,145.0,Affiliate,False,False,False,False,False
+CUST8461,CUST8461,2025-09-18,UAE,Mobile,Returning,No,Unknown,4034.0,Referral,False,False,False,False,False
+CUST8502,CUST8502,2026-04-10,USA,Tablet,At-Risk,Yes,No,4185.0,Affiliate,False,False,False,False,False
+CUST8506,CUST8506,2026-06-16,Australia,Tablet,At-Risk,No,No,3752.0,Affiliate,False,False,False,False,False
+CUST8532,CUST8532,2025-07-20,USA,Desktop,VIP,No,No,1035.0,Referral,False,False,False,False,False
+CUST8565,CUST8565,2025-05-30,South Africa,Desktop,New,No,Yes,836.0,Paid Social,False,False,False,False,False
+CUST8570,CUST8570,2026-04-14,UAE,Mobile,VIP,Yes,No,2923.0,Affiliate,False,False,False,False,False
+CUST8578,CUST_8578,2026-08-07,Singapore,Mobile,VIP,Unknown,Yes,2172.0,Organic Search,False,False,False,False,True
+CUST8588,CUST8588,2025-09-19,Germany,Mobile,VIP,Yes,Yes,4827.0,Referral,False,False,False,False,False
+CUST8592,CUST8592,2026-03-27,Singapore,Mobile,New,No,No,2954.0,Referral,False,False,False,False,False
+CUST8674,CUST8674,2026-02-14,Singapore,Desktop,Returning,No,No,4944.0,Paid Social,False,False,False,False,False
+CUST8728,CUST8728,2025-10-19,India,Mobile,VIP,Yes,No,4654.0,Organic Search,False,False,False,False,False
+CUST8748,CUST8748,2025-11-11,Mexico,Mobile,VIP,Unknown,Yes,174.0,Email Campaign,False,False,False,False,False
+CUST8753,CUST8753,2025-04-23,US,Desktop,Returning,Unknown,No,961.0,Referral,False,False,False,False,False
+CUST8757,CUST8757,2025-03-24,South Africa,Mobile,At-Risk,No,Yes,903.0,Paid Social,False,False,False,False,False
+CUST8780,CUST8780,2025-10-25,Germany,Desktop,New,No,No,801.0,Affiliate,False,False,False,False,False
+CUST8837,CUST8837,2026-09-04,South Korea,Mobile,Returning,Yes,Yes,1732.0,Paid Social,False,False,False,False,False
+CUST8854,CUST8854,2025-12-06,Mexico,Tablet,At-Risk,Unknown,No,1838.0,Paid Social,False,False,False,False,False
+CUST8903,CUST8903,2025-05-23,Canada,Desktop,New,No,Unknown,3927.0,Direct,False,False,False,False,False
+CUST8904,CUST8904,2025-05-19,France,Tablet,Standard,Unknown,Yes,1190.0,Direct,False,False,False,False,False
+CUST8925,CUST8925,2025-10-29,France,Mobile,Returning,Yes,No,4495.0,Referral,False,False,False,False,False
+CUST8927,CUST8927,2026-03-11,Australia,Mobile,At-Risk,No,No,4094.0,Email Campaign,False,False,False,False,False
+CUST8967,CUST8967,2025-06-20,South Africa,Mobile,At-Risk,No,Unknown,1902.0,Email Campaign,False,False,False,False,False
+CUST8969,CUST8969,2025-09-01,USA,Mobile,At-Risk,Unknown,Yes,2328.0,Paid Social,False,False,False,False,False
+CUST8974,CUST8974,2025-06-22,Australia,Tablet,New,Unknown,Unknown,4321.0,Paid Social,False,False,False,False,False
+CUST9001,CUST9001,2026-03-25,Singapore,Desktop,Returning,No,No,460.0,Affiliate,False,False,False,False,False
+CUST9058,CUST9058,2026-01-30,France,Mobile,Standard,No,No,1114.0,Organic Search,False,False,False,False,False
+CUST9064,CUST9064,2025-08-04,Australia,Desktop,VIP,No,No,4652.0,Paid Social,False,False,False,False,False
+CUST9076,CUST9076,2025-10-22,South Africa,Mobile,VIP,Yes,Yes,4671.0,Affiliate,False,False,False,False,False
+CUST9077,CUST9077,2026-07-22,Nigeria,Tablet,VIP,Yes,No,4388.0,Affiliate,False,False,False,False,False
+CUST9083,CUST9083,2026-04-03,Mexico,Mobile,Loyal,Yes,No,1183.0,Affiliate,False,False,False,False,False
+CUST9096,CUST9096,2025-05-25,Mexico,Mobile,VIP,No,Yes,4948.0,Email Campaign,False,False,False,False,False
+CUST9099,CUST9099,2026-04-19,UK,Mobile,Returning,No,Yes,2878.0,Paid Social,False,False,False,False,False
+CUST9122,CUST9122,2025-11-21,Canada,Desktop,VIP,Unknown,Yes,3442.0,Direct,False,False,False,False,False
+CUST9130,CUST9130,2025-10-23,Canada,Tablet,Returning,Yes,Yes,1817.0,Referral,False,False,False,False,False
+CUST9137,CUST9137,2025-10-09,UK,Mobile,VIP,No,Yes,1093.0,Email Campaign,False,False,False,False,False
+CUST9184,CUST9184,2025-03-04,France,Mobile,Returning,Unknown,No,607.0,Email Campaign,False,False,False,False,False
+CUST9226,CUST9226,2025-04-15,Canada,Mobile,New,Yes,Unknown,1067.0,Organic Search,False,False,False,False,False
+CUST9247,CUST9247,2026-01-05,South Korea,Desktop,Returning,Yes,No,3002.0,Paid Social,False,False,False,False,False
+CUST9256,CUST9256,2025-12-11,USA,Tablet,At-Risk,Unknown,No,4919.0,Paid Social,False,False,False,False,False
+CUST9263,CUST9263,2025-11-15,Australia,Tablet,At-Risk,No,No,377.0,Paid Social,False,False,False,False,False
+CUST9270,CUST9270,2025-07-02,South Korea,Tablet,VIP,Unknown,Yes,3964.0,Email Campaign,False,False,False,False,False
+CUST9271,CUST9271,2025-04-29,UK,Desktop,New,Yes,Yes,2342.0,Paid Social,False,False,False,False,False
+CUST9282,CUST9282,2026-03-14,Mexico,Desktop,VIP,Yes,Unknown,2738.0,Affiliate,False,False,False,False,False
+CUST9290,CUST9290,2025-12-04,Germany,Desktop,At-Risk,Yes,Unknown,2387.0,Referral,False,False,False,False,False
+CUST9293,CUST9293,2025-08-12,France,Desktop,Returning,No,No,4056.0,Direct,False,False,False,False,False
+CUST9318,CUST9318,2026-03-16,Australia,Mobile,VIP,Yes,Unknown,1371.0,Direct,False,False,False,False,False
+CUST9335,CUST9335,2025-04-16,Nigeria,Desktop,VIP,No,Unknown,869.0,Direct,False,False,False,False,False
+CUST9358,CUST9358,2026-02-10,Spain,Tablet,VIP,Yes,Yes,3417.0,Referral,False,False,False,False,False
+CUST9359,CUST9359,2025-10-27,GB,Desktop,At-Risk,Yes,No,292.0,Paid Social,False,False,False,False,False
+CUST9391,CUST9391,2025-09-22,AU,Mobile,At-Risk,Yes,No,634.0,Organic Search,False,False,False,False,False
+CUST9399,CUST9399,2025-08-16,Australia,Desktop,New,Yes,No,744.0,Paid Social,False,False,False,False,False
+CUST9404,CUST9404,2025-05-04,Nigeria,Tablet,VIP,Yes,Yes,2040.0,Organic Search,False,False,False,False,False
+CUST9457,CUST9457,2025-08-17,Nigeria,Mobile,Standard,Yes,No,2078.0,Affiliate,False,False,False,False,False
+CUST9462,CUST9462,2025-05-26,South Korea,Mobile,At-Risk,No,No,900.0,Referral,False,False,False,False,False
+CUST9466,CUST9466,2025-10-30,JP,Mobile,At-Risk,Yes,Unknown,993.0,Email Campaign,False,False,False,False,False
+CUST9474,CUST9474,2026-07-23,UAE,Tablet,VIP,Yes,Yes,177.0,Email Campaign,False,False,False,False,False
+CUST9477,CUST9477,2026-02-05,UK,Tablet,Returning,No,No,1144.0,Direct,False,False,False,False,False
+CUST9488,CUST9488,2025-12-10,India,Mobile,VIP,Yes,Yes,502.0,Direct,False,False,False,False,False
+CUST9492,CUST9492,2026-02-14,India,Tablet,Returning,Yes,No,4942.0,Paid Social,False,False,False,False,False
+CUST9524,CUST9524,2025-08-25,NL,Desktop,Returning,Unknown,Unknown,4005.0,Paid Social,False,False,False,False,False
+CUST9554,CUST9554,2026-04-30,AU,Tablet,Returning,Yes,Yes,764.0,Paid Social,False,False,False,False,False
+CUST9570,CUST9570,2025-11-10,AU,Tablet,At-Risk,No,Yes,4576.0,Paid Social,False,False,False,False,False
+CUST9596,CUST9596,2025-11-02,UK,Mobile,Returning,Unknown,No,4075.0,Affiliate,False,False,False,False,False
+CUST9668,CUST9668,2025-04-19,Germany,Desktop,At-Risk,Yes,No,880.0,Organic Search,False,False,False,False,False
+CUST9708,CUST9708,2026-01-02,Australia,Mobile,New,Yes,Yes,4652.0,Organic Search,False,False,False,False,False
+CUST9746,CUST9746,2025-06-26,UK,Desktop,Returning,No,No,4793.0,Email Campaign,False,False,False,False,False
+CUST9749,CUST9749,2026-01-27,France,Desktop,VIP,No,No,1764.0,Direct,False,False,False,False,False
+CUST9757,CUST9757,2025-09-29,UK,Mobile,Returning,No,Yes,2823.0,Organic Search,False,False,False,False,False
+CUST9776,CUST9776,2026-02-16,Singapore,Mobile,New,No,No,3840.0,Paid Social,False,False,False,False,False
+CUST9791,CUST9791,2026-03-06,JP,Desktop,Returning,No,No,131.0,Paid Social,False,False,False,False,False
+CUST9817,CUST9817,2026-05-09,Germany,Desktop,At-Risk,Yes,Unknown,3667.0,Affiliate,False,False,False,False,False
+CUST9874,CUST9874,2025-12-03,USA,Mobile,New,Yes,Yes,4197.0,Email Campaign,False,False,False,False,False
+CUST9891,CUST9891,2025-03-10,GB,Mobile,Returning,Yes,No,278.0,Organic Search,False,False,False,False,False
+CUST9897,CUST9897,2025-07-17,Nigeria,Desktop,VIP,No,Yes,750.0,Email Campaign,False,False,False,False,False
+CUST9900,CUST9900,2026-01-23,Singapore,Mobile,New,No,Unknown,0.0,Direct,False,False,False,False,False
+CUST9901,CUST9901,2026-01-21,Germany,Desktop,New,Unknown,Yes,0.0,Organic Search,False,False,False,False,False
+CUST9902,CUST9902,2026-01-31,South Africa,Tablet,New,Unknown,No,0.0,Email Campaign,False,False,False,False,False
+CUST9903,CUST9903,2026-08-02,UK,Mobile,New,No,No,0.0,Paid Social,False,False,False,False,False
+CUST9904,CUST9904,2026-01-22,UAE,Mobile,New,Unknown,Unknown,0.0,Direct,False,False,False,False,False
+CUST9905,CUST9905,2026-04-11,Singapore,Tablet,New,Yes,Yes,0.0,Organic Search,False,False,False,False,False
+CUST9906,CUST9906,2026-09-10,Spain,Tablet,New,Yes,No,0.0,Affiliate,False,False,False,False,False
+CUST9907,CUST9907,2026-03-09,UK,Desktop,New,Unknown,No,0.0,Referral,False,False,False,False,False
+CUST9908,CUST9908,2026-01-29,Australia,Mobile,New,No,No,0.0,Organic Search,False,False,False,False,False
+CUST9909,CUST9909,2026-09-14,Spain,Mobile,New,No,Yes,0.0,Direct,False,False,False,False,False
+CUST9910,CUST9910,2026-09-26,France,Desktop,New,Yes,Yes,0.0,Organic Search,False,False,False,False,False
+CUST9911,CUST9911,2026-05-31,UK,Mobile,New,No,Yes,0.0,Email Campaign,False,False,False,False,False
+CUST9912,CUST9912,2026-08-27,France,Tablet,New,No,Yes,0.0,Affiliate,False,False,False,False,False
+CUST9913,CUST9913,2026-01-25,France,Tablet,New,No,No,0.0,Organic Search,False,False,False,False,False
+CUST9914,CUST9914,2026-03-24,South Africa,Tablet,New,Unknown,No,0.0,Referral,False,False,False,False,False
+CUST9937,CUST9937,2025-09-05,Australia,Mobile,Returning,No,Yes,1690.0,Email Campaign,False,False,False,False,False
+CUST9987,CUST9987,2025-07-04,UAE,Tablet,Returning,No,Yes,728.0,Organic Search,False,False,False,False,False
+CUST9992,CUST9992,2025-10-30,AU,Tablet,At-Risk,No,Yes,3893.0,Paid Social,False,False,False,False,False

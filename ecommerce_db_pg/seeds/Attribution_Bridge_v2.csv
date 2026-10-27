@@ -1,0 +1,478 @@
+order_id,touchpoint_id,campaign_id,campaign_name,attribution_model,credit_share,currency
+TXN10278,TP100001,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10278,TP100002,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10477,TP100003,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10477,TP100004,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10090,TP100005,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3333,USD
+TXN10090,TP100006,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3333,USD
+TXN10090,TP100007,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3334,USD
+TXN10302,TP100008,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.25,USD
+TXN10302,TP100009,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.25,USD
+TXN10302,TP100010,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.25,USD
+TXN10302,TP100011,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.25,USD
+TXN10065,TP100012,CMP1008,VIP Early Access,linear_multi_touch_verified,1.0,USD
+TXN10193,TP100013,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10193,TP100014,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10290,TP100015,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10290,TP100016,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10085,TP100017,CMP1007,Summer Sale 2026,linear_multi_touch_verified,1.0,USD
+TXN10337,TP100018,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3333,USD
+TXN10337,TP100019,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3333,USD
+TXN10337,TP100020,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3334,USD
+TXN10428,TP100021,CMP1006,Q2_Retargeting,linear_multi_touch_verified,1.0,USD
+TXN10165,TP100022,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.3333,USD
+TXN10165,TP100023,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.3333,USD
+TXN10165,TP100024,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.3334,USD
+TXN10130,TP100025,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10130,TP100026,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10200,TP100027,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10200,TP100028,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10131,TP100029,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10131,TP100030,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10131,TP100031,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10131,TP100032,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10104,TP100033,CMP1000,BlackFridayPromo,linear_multi_touch_verified,1.0,USD
+TXN10383,TP100034,CMP1001,Clearance Event,linear_multi_touch_verified,0.3333,USD
+TXN10383,TP100035,CMP1001,Clearance Event,linear_multi_touch_verified,0.3333,USD
+TXN10383,TP100036,CMP1001,Clearance Event,linear_multi_touch_verified,0.3334,USD
+TXN10059,TP100037,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10059,TP100038,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10059,TP100039,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10059,TP100040,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10092,TP100041,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10092,TP100042,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10092,TP100043,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10092,TP100044,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10135,TP100045,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,1.0,USD
+TXN10099,TP100046,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10099,TP100047,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10475,TP100048,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10475,TP100049,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10488,TP100050,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3333,USD
+TXN10488,TP100051,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3333,USD
+TXN10488,TP100052,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3334,USD
+TXN10429,TP100053,CMP1006,Q2_Retargeting,linear_multi_touch_verified,1.0,USD
+TXN10213,TP100054,CMP1000,BlackFridayPromo,linear_multi_touch_verified,1.0,USD
+TXN10234,TP100055,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10234,TP100056,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10118,TP100057,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.5,USD
+TXN10118,TP100058,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.5,USD
+TXN10267,TP100059,CMP1008,VIP Early Access,linear_multi_touch_verified,1.0,USD
+TXN10029,TP100060,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10029,TP100061,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10261,TP100062,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10215,TP100063,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10215,TP100064,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10414,TP100065,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10414,TP100066,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10097,TP100067,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10097,TP100068,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10480,TP100069,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3333,USD
+TXN10480,TP100070,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3333,USD
+TXN10480,TP100071,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3334,USD
+TXN10102,TP100072,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10341,TP100073,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10341,TP100074,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10150,TP100075,CMP1000,BlackFridayPromo,linear_multi_touch_verified,1.0,USD
+TXN10476,TP100076,CMP1007,Summer Sale 2026,linear_multi_touch_verified,1.0,USD
+TXN10245,TP100077,CMP1001,Clearance Event,linear_multi_touch_verified,1.0,USD
+TXN10350,TP100078,CMP1007,Summer Sale 2026,linear_multi_touch_verified,1.0,USD
+TXN10115,TP100079,CMP1001,Clearance Event,linear_multi_touch_verified,1.0,USD
+TXN10123,TP100080,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10123,TP100081,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10419,TP100082,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10419,TP100083,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10232,TP100084,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3333,USD
+TXN10232,TP100085,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3333,USD
+TXN10232,TP100086,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3334,USD
+TXN10017,TP100087,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.3333,USD
+TXN10017,TP100088,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.3333,USD
+TXN10017,TP100089,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.3334,USD
+TXN10353,TP100090,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10353,TP100091,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10438,TP100092,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10170,TP100093,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3333,USD
+TXN10170,TP100094,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3333,USD
+TXN10170,TP100095,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3334,USD
+TXN10241,TP100096,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10241,TP100097,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10117,TP100098,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,1.0,USD
+TXN10362,TP100099,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10362,TP100100,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10472,TP100101,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,1.0,USD
+TXN10421,TP100102,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,1.0,USD
+TXN10222,TP100103,CMP1005,New Customer Welcome,linear_multi_touch_verified,1.0,USD
+TXN10409,TP100104,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10409,TP100105,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10307,TP100106,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10307,TP100107,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN20001,TP100108,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.3333,USD
+TXN20001,TP100109,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.3333,USD
+TXN20001,TP100110,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.3334,USD
+TXN10416,TP100111,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10416,TP100112,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10300,TP100113,CMP1008,VIP Early Access,linear_multi_touch_verified,0.25,USD
+TXN10300,TP100114,CMP1008,VIP Early Access,linear_multi_touch_verified,0.25,USD
+TXN10300,TP100115,CMP1008,VIP Early Access,linear_multi_touch_verified,0.25,USD
+TXN10300,TP100116,CMP1008,VIP Early Access,linear_multi_touch_verified,0.25,USD
+TXN10381,TP100117,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.5,USD
+TXN10381,TP100118,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.5,USD
+TXN10025,TP100119,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10025,TP100120,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10395,TP100121,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10395,TP100122,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10077,TP100123,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.3333,USD
+TXN10077,TP100124,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.3333,USD
+TXN10077,TP100125,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.3334,USD
+TXN10223,TP100126,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10223,TP100127,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10223,TP100128,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10223,TP100129,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10357,TP100130,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10357,TP100131,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10312,TP100132,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10312,TP100133,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10265,TP100134,CMP1005,New Customer Welcome,linear_multi_touch_verified,1.0,USD
+TXN10110,TP100135,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3333,USD
+TXN10110,TP100136,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3333,USD
+TXN10110,TP100137,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3334,USD
+TXN10387,TP100138,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,1.0,USD
+TXN10196,TP100139,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10196,TP100140,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10384,TP100141,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,1.0,USD
+TXN10033,TP100142,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10033,TP100143,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10176,TP100144,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,1.0,USD
+TXN10390,TP100145,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10390,TP100146,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10468,TP100147,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10468,TP100148,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10240,TP100149,CMP1008,VIP Early Access,linear_multi_touch_verified,0.3333,USD
+TXN10240,TP100150,CMP1008,VIP Early Access,linear_multi_touch_verified,0.3333,USD
+TXN10240,TP100151,CMP1008,VIP Early Access,linear_multi_touch_verified,0.3334,USD
+TXN10308,TP100152,CMP1001,Clearance Event,linear_multi_touch_verified,0.3333,USD
+TXN10308,TP100153,CMP1001,Clearance Event,linear_multi_touch_verified,0.3333,USD
+TXN10308,TP100154,CMP1001,Clearance Event,linear_multi_touch_verified,0.3334,USD
+TXN10134,TP100155,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10134,TP100156,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10253,TP100157,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,1.0,USD
+TXN10087,TP100158,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10087,TP100159,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10287,TP100160,CMP1006,Q2_Retargeting,linear_multi_touch_verified,1.0,USD
+TXN10056,TP100161,CMP1006,Q2_Retargeting,linear_multi_touch_verified,1.0,USD
+TXN10408,TP100162,CMP1005,New Customer Welcome,linear_multi_touch_verified,1.0,USD
+TXN10478,TP100163,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10478,TP100164,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10178,TP100165,CMP1008,VIP Early Access,linear_multi_touch_verified,1.0,USD
+TXN10079,TP100166,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,1.0,USD
+TXN10108,TP100167,CMP1007,Summer Sale 2026,linear_multi_touch_verified,1.0,USD
+TXN10127,TP100168,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10127,TP100169,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10251,TP100170,CMP1008,VIP Early Access,linear_multi_touch_verified,0.25,USD
+TXN10251,TP100171,CMP1008,VIP Early Access,linear_multi_touch_verified,0.25,USD
+TXN10251,TP100172,CMP1008,VIP Early Access,linear_multi_touch_verified,0.25,USD
+TXN10251,TP100173,CMP1008,VIP Early Access,linear_multi_touch_verified,0.25,USD
+TXN10035,TP100174,CMP1005,New Customer Welcome,linear_multi_touch_verified,1.0,USD
+TXN10275,TP100175,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,1.0,USD
+TXN10031,TP100176,CMP1006,Q2_Retargeting,linear_multi_touch_verified,1.0,USD
+TXN10119,TP100177,CMP1000,BlackFridayPromo,linear_multi_touch_verified,1.0,USD
+TXN10434,TP100178,CMP1006,Q2_Retargeting,linear_multi_touch_verified,1.0,USD
+TXN10159,TP100179,CMP1006,Q2_Retargeting,linear_multi_touch_verified,1.0,USD
+TXN10424,TP100180,CMP1008,VIP Early Access,linear_multi_touch_verified,0.3333,USD
+TXN10424,TP100181,CMP1008,VIP Early Access,linear_multi_touch_verified,0.3333,USD
+TXN10424,TP100182,CMP1008,VIP Early Access,linear_multi_touch_verified,0.3334,USD
+TXN10125,TP100183,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3333,USD
+TXN10125,TP100184,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3333,USD
+TXN10125,TP100185,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3334,USD
+TXN10457,TP100186,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.5,USD
+TXN10457,TP100187,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.5,USD
+TXN10141,TP100188,CMP1001,Clearance Event,linear_multi_touch_verified,0.3333,USD
+TXN10141,TP100189,CMP1001,Clearance Event,linear_multi_touch_verified,0.3333,USD
+TXN10141,TP100190,CMP1001,Clearance Event,linear_multi_touch_verified,0.3334,USD
+TXN10411,TP100191,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,1.0,USD
+TXN10221,TP100192,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,1.0,USD
+TXN10260,TP100193,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.3333,USD
+TXN10260,TP100194,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.3333,USD
+TXN10260,TP100195,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.3334,USD
+TXN10274,TP100196,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10270,TP100197,CMP1001,Clearance Event,linear_multi_touch_verified,1.0,USD
+TXN10187,TP100198,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10187,TP100199,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10187,TP100200,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10187,TP100201,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10368,TP100202,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.25,USD
+TXN10368,TP100203,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.25,USD
+TXN10368,TP100204,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.25,USD
+TXN10368,TP100205,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.25,USD
+TXN10444,TP100206,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10444,TP100207,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10058,TP100208,CMP1000,BlackFridayPromo,linear_multi_touch_verified,1.0,USD
+TXN10445,TP100209,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10445,TP100210,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10449,TP100211,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.5,USD
+TXN10449,TP100212,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.5,USD
+TXN10011,TP100213,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.25,USD
+TXN10011,TP100214,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.25,USD
+TXN10011,TP100215,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.25,USD
+TXN10011,TP100216,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.25,USD
+TXN10413,TP100217,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3333,USD
+TXN10413,TP100218,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3333,USD
+TXN10413,TP100219,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3334,USD
+TXN10186,TP100220,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10186,TP100221,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10186,TP100222,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10186,TP100223,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10053,TP100224,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10406,TP100225,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10406,TP100226,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10269,TP100227,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,1.0,USD
+TXN10009,TP100228,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.5,USD
+TXN10009,TP100229,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.5,USD
+TXN10072,TP100230,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,1.0,USD
+TXN10250,TP100231,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10250,TP100232,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10372,TP100233,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10372,TP100234,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10296,TP100235,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3333,USD
+TXN10296,TP100236,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3333,USD
+TXN10296,TP100237,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3334,USD
+TXN10264,TP100238,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10264,TP100239,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10264,TP100240,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10264,TP100241,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10306,TP100242,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.25,USD
+TXN10306,TP100243,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.25,USD
+TXN10306,TP100244,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.25,USD
+TXN10306,TP100245,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.25,USD
+TXN10454,TP100246,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.3333,USD
+TXN10454,TP100247,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.3333,USD
+TXN10454,TP100248,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.3334,USD
+TXN10039,TP100249,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3333,USD
+TXN10039,TP100250,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3333,USD
+TXN10039,TP100251,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3334,USD
+TXN10256,TP100252,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10089,TP100253,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10089,TP100254,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10147,TP100255,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10147,TP100256,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10201,TP100257,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10201,TP100258,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10199,TP100259,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,1.0,USD
+TXN10491,TP100260,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.5,USD
+TXN10491,TP100261,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.5,USD
+TXN10216,TP100262,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10122,TP100263,CMP1007,Summer Sale 2026,linear_multi_touch_verified,1.0,USD
+TXN10203,TP100264,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,1.0,USD
+TXN10185,TP100265,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10185,TP100266,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10179,TP100267,CMP1000,BlackFridayPromo,linear_multi_touch_verified,1.0,USD
+TXN10225,TP100268,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10225,TP100269,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10202,TP100270,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.3333,USD
+TXN10202,TP100271,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.3333,USD
+TXN10202,TP100272,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.3334,USD
+TXN10007,TP100273,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3333,USD
+TXN10007,TP100274,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3333,USD
+TXN10007,TP100275,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3334,USD
+TXN10172,TP100276,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10172,TP100277,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10172,TP100278,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10172,TP100279,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.25,USD
+TXN10272,TP100280,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10272,TP100281,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10495,TP100282,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10495,TP100283,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10026,TP100284,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.5,USD
+TXN10026,TP100285,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.5,USD
+TXN10042,TP100286,CMP1008,VIP Early Access,linear_multi_touch_verified,1.0,USD
+TXN20004,TP100287,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.5,USD
+TXN20004,TP100288,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.5,USD
+TXN10412,TP100289,CMP1007,Summer Sale 2026,linear_multi_touch_verified,1.0,USD
+TXN10348,TP100290,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.3333,USD
+TXN10348,TP100291,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.3333,USD
+TXN10348,TP100292,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.3334,USD
+TXN10446,TP100293,CMP1001,Clearance Event,linear_multi_touch_verified,1.0,USD
+TXN10352,TP100294,CMP1005,New Customer Welcome,linear_multi_touch_verified,1.0,USD
+TXN10379,TP100295,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.3333,USD
+TXN10379,TP100296,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.3333,USD
+TXN10379,TP100297,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.3334,USD
+TXN10248,TP100298,CMP1000,BlackFridayPromo,linear_multi_touch_verified,1.0,USD
+TXN10040,TP100299,CMP1008,VIP Early Access,linear_multi_touch_verified,0.25,USD
+TXN10040,TP100300,CMP1008,VIP Early Access,linear_multi_touch_verified,0.25,USD
+TXN10040,TP100301,CMP1008,VIP Early Access,linear_multi_touch_verified,0.25,USD
+TXN10040,TP100302,CMP1008,VIP Early Access,linear_multi_touch_verified,0.25,USD
+TXN10121,TP100303,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10121,TP100304,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10101,TP100305,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10140,TP100306,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10140,TP100307,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10276,TP100308,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10276,TP100309,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10259,TP100310,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,1.0,USD
+TXN10473,TP100311,CMP1006,Q2_Retargeting,linear_multi_touch_verified,1.0,USD
+TXN10321,TP100312,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3333,USD
+TXN10321,TP100313,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3333,USD
+TXN10321,TP100314,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3334,USD
+TXN10490,TP100315,CMP1001,Clearance Event,linear_multi_touch_verified,1.0,USD
+TXN10210,TP100316,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.5,USD
+TXN10210,TP100317,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.5,USD
+TXN10142,TP100318,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10142,TP100319,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10190,TP100320,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10463,TP100321,CMP1006,Q2_Retargeting,linear_multi_touch_verified,1.0,USD
+TXN10171,TP100322,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10188,TP100323,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10188,TP100324,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10046,TP100325,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3333,USD
+TXN10046,TP100326,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3333,USD
+TXN10046,TP100327,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3334,USD
+TXN10471,TP100328,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10070,TP100329,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10070,TP100330,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10105,TP100331,CMP1005,New Customer Welcome,linear_multi_touch_verified,1.0,USD
+TXN10301,TP100332,CMP1006,Q2_Retargeting,linear_multi_touch_verified,1.0,USD
+TXN10313,TP100333,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10114,TP100334,CMP1001,Clearance Event,linear_multi_touch_verified,1.0,USD
+TXN10239,TP100335,CMP1006,Q2_Retargeting,linear_multi_touch_verified,1.0,USD
+TXN10354,TP100336,CMP1007,Summer Sale 2026,linear_multi_touch_verified,1.0,USD
+TXN10329,TP100337,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.25,USD
+TXN10329,TP100338,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.25,USD
+TXN10329,TP100339,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.25,USD
+TXN10329,TP100340,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.25,USD
+TXN10168,TP100341,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.3333,USD
+TXN10168,TP100342,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.3333,USD
+TXN10168,TP100343,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.3334,USD
+TXN10066,TP100344,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.25,USD
+TXN10066,TP100345,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.25,USD
+TXN10066,TP100346,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.25,USD
+TXN10066,TP100347,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.25,USD
+TXN10479,TP100348,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3333,USD
+TXN10479,TP100349,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3333,USD
+TXN10479,TP100350,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3334,USD
+TXN10143,TP100351,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.3333,USD
+TXN10143,TP100352,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.3333,USD
+TXN10143,TP100353,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.3334,USD
+TXN10377,TP100354,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10377,TP100355,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10292,TP100356,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10292,TP100357,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10034,TP100358,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.25,USD
+TXN10034,TP100359,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.25,USD
+TXN10034,TP100360,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.25,USD
+TXN10034,TP100361,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.25,USD
+TXN10317,TP100362,CMP1008,VIP Early Access,linear_multi_touch_verified,1.0,USD
+TXN10207,TP100363,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3333,USD
+TXN10207,TP100364,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3333,USD
+TXN10207,TP100365,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3334,USD
+TXN10481,TP100366,CMP1001,Clearance Event,linear_multi_touch_verified,1.0,USD
+TXN10051,TP100367,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10051,TP100368,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10136,TP100369,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10227,TP100370,CMP1005,New Customer Welcome,linear_multi_touch_verified,1.0,USD
+TXN20005,TP100371,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10106,TP100372,CMP1008,VIP Early Access,linear_multi_touch_verified,0.3333,USD
+TXN10106,TP100373,CMP1008,VIP Early Access,linear_multi_touch_verified,0.3333,USD
+TXN10106,TP100374,CMP1008,VIP Early Access,linear_multi_touch_verified,0.3334,USD
+TXN10160,TP100375,CMP1005,New Customer Welcome,linear_multi_touch_verified,1.0,USD
+TXN10297,TP100376,CMP1006,Q2_Retargeting,linear_multi_touch_verified,1.0,USD
+TXN10439,TP100377,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10439,TP100378,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10346,TP100379,CMP1008,VIP Early Access,linear_multi_touch_verified,1.0,USD
+TXN10093,TP100380,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10093,TP100381,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10493,TP100382,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3333,USD
+TXN10493,TP100383,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3333,USD
+TXN10493,TP100384,CMP1005,New Customer Welcome,linear_multi_touch_verified,0.3334,USD
+TXN10458,TP100385,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,1.0,USD
+TXN10425,TP100386,CMP1008,VIP Early Access,linear_multi_touch_verified,0.3333,USD
+TXN10425,TP100387,CMP1008,VIP Early Access,linear_multi_touch_verified,0.3333,USD
+TXN10425,TP100388,CMP1008,VIP Early Access,linear_multi_touch_verified,0.3334,USD
+TXN10360,TP100389,CMP1001,Clearance Event,linear_multi_touch_verified,1.0,USD
+TXN10088,TP100390,CMP1001,Clearance Event,linear_multi_touch_verified,0.3333,USD
+TXN10088,TP100391,CMP1001,Clearance Event,linear_multi_touch_verified,0.3333,USD
+TXN10088,TP100392,CMP1001,Clearance Event,linear_multi_touch_verified,0.3334,USD
+TXN10281,TP100393,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.3333,USD
+TXN10281,TP100394,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.3333,USD
+TXN10281,TP100395,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.3334,USD
+TXN10184,TP100396,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10184,TP100397,CMP1008,VIP Early Access,linear_multi_touch_verified,0.5,USD
+TXN10324,TP100398,CMP1001,Clearance Event,linear_multi_touch_verified,1.0,USD
+TXN10022,TP100399,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10082,TP100400,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.25,USD
+TXN10082,TP100401,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.25,USD
+TXN10082,TP100402,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.25,USD
+TXN10082,TP100403,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.25,USD
+TXN10244,TP100404,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10244,TP100405,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10393,TP100406,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3333,USD
+TXN10393,TP100407,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3333,USD
+TXN10393,TP100408,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.3334,USD
+TXN10351,TP100409,CMP1005,New Customer Welcome,linear_multi_touch_verified,1.0,USD
+TXN10177,TP100410,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10177,TP100411,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10367,TP100412,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10367,TP100413,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10182,TP100414,CMP1008,VIP Early Access,linear_multi_touch_verified,1.0,USD
+TXN10255,TP100415,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3333,USD
+TXN10255,TP100416,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3333,USD
+TXN10255,TP100417,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.3334,USD
+TXN10295,TP100418,CMP1005,New Customer Welcome,linear_multi_touch_verified,1.0,USD
+TXN10279,TP100419,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.25,USD
+TXN10279,TP100420,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.25,USD
+TXN10279,TP100421,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.25,USD
+TXN10279,TP100422,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.25,USD
+TXN10415,TP100423,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10415,TP100424,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10382,TP100425,CMP1000,BlackFridayPromo,linear_multi_touch_verified,1.0,USD
+TXN10420,TP100426,CMP1005,New Customer Welcome,linear_multi_touch_verified,1.0,USD
+TXN10198,TP100427,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10198,TP100428,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10277,TP100429,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10277,TP100430,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.5,USD
+TXN10469,TP100431,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,1.0,USD
+TXN10486,TP100432,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10486,TP100433,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10180,TP100434,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10180,TP100435,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,0.5,USD
+TXN10282,TP100436,CMP1000,BlackFridayPromo,linear_multi_touch_verified,1.0,USD
+TXN10304,TP100437,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.25,USD
+TXN10304,TP100438,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.25,USD
+TXN10304,TP100439,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.25,USD
+TXN10304,TP100440,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.25,USD
+TXN10068,TP100441,CMP1006,Q2_Retargeting,linear_multi_touch_verified,1.0,USD
+TXN10155,TP100442,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.25,USD
+TXN10155,TP100443,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.25,USD
+TXN10155,TP100444,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.25,USD
+TXN10155,TP100445,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.25,USD
+TXN10175,TP100446,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10175,TP100447,CMP1006,Q2_Retargeting,linear_multi_touch_verified,0.5,USD
+TXN10158,TP100448,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10158,TP100449,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10158,TP100450,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10158,TP100451,CMP1001,Clearance Event,linear_multi_touch_verified,0.25,USD
+TXN10465,TP100452,CMP1008,VIP Early Access,linear_multi_touch_verified,0.3333,USD
+TXN10465,TP100453,CMP1008,VIP Early Access,linear_multi_touch_verified,0.3333,USD
+TXN10465,TP100454,CMP1008,VIP Early Access,linear_multi_touch_verified,0.3334,USD
+TXN10283,TP100455,CMP1008,VIP Early Access,linear_multi_touch_verified,1.0,USD
+TXN10371,TP100456,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10371,TP100457,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10397,TP100458,CMP1004,Loyalty Rewards Push,linear_multi_touch_verified,1.0,USD
+TXN10327,TP100459,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.25,USD
+TXN10327,TP100460,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.25,USD
+TXN10327,TP100461,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.25,USD
+TXN10327,TP100462,CMP1002,Flash Deal Weekend,linear_multi_touch_verified,0.25,USD
+TXN10455,TP100463,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10455,TP100464,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.5,USD
+TXN10386,TP100465,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10021,TP100466,CMP1008,VIP Early Access,linear_multi_touch_verified,1.0,USD
+TXN10205,TP100467,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.3333,USD
+TXN10205,TP100468,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.3333,USD
+TXN10205,TP100469,CMP1007,Summer Sale 2026,linear_multi_touch_verified,0.3334,USD
+TXN10078,TP100470,CMP1006,Q2_Retargeting,linear_multi_touch_verified,1.0,USD
+TXN10370,TP100471,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10370,TP100472,CMP1001,Clearance Event,linear_multi_touch_verified,0.5,USD
+TXN10076,TP100473,CMP1003,Holiday Bundle,linear_multi_touch_verified,1.0,USD
+TXN10137,TP100474,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.5,USD
+TXN10137,TP100475,CMP1000,BlackFridayPromo,linear_multi_touch_verified,0.5,USD
+TXN10226,TP100476,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD
+TXN10226,TP100477,CMP1003,Holiday Bundle,linear_multi_touch_verified,0.5,USD

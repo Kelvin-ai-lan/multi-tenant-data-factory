@@ -1,0 +1,30 @@
+version: 2
+
+models:
+  - name: fct_subscription_revenue
+    description: >
+      Monthly billing-start cohort summary by plan and currency, with active
+      and cancelled subscription counts, active and cancelled MRR pools, and
+      churn indicators. Billing cycle month is the month in which a subscription
+      started; this is a cohort view rather than a calendar-month recognized-revenue ledger.
+    columns:
+      - name: billing_cycle_month
+        description: Month-truncated subscription billing start timestamp used as the cohort billing cycle.
+      - name: subscription_count
+        description: Count of distinct subscriptions that started in the billing cycle, plan, and currency group.
+      - name: customer_count
+        description: Count of distinct customers represented in the billing cycle group.
+      - name: active_mrr_amount
+        description: Monthly recurring revenue associated with contracts classified as active.
+      - name: cancelled_mrr_amount
+        description: Monthly recurring revenue associated with contracts classified as cancelled.
+      - name: active_subscription_count
+        description: Count of subscriptions classified as active.
+      - name: cancelled_subscription_count
+        description: Count of subscriptions classified as cancelled based on status or a populated billing end timestamp.
+      - name: unknown_state_subscription_count
+        description: Count of contracts whose state could not be classified as active or cancelled.
+      - name: churned_subscription_share
+        description: Cancelled subscription count divided by all subscriptions in the billing cohort.
+      - name: has_churned_subscriptions
+        description: True when at least one subscription in the group is classified as cancelled.
