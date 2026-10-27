@@ -1,0 +1,27 @@
+# ==========================================
+# VS Code / Copilot Agent Configurations
+# ==========================================
+.github/agents/
+.github/skills/
+.github/instructions/
+
+# ==========================================
+# dbt Core Standard Cache Ignores
+# ==========================================
+**/target/
+**/dbt_packages/
+**/logs/
+
+# ==========================================
+# Python Virtual Environments
+# ==========================================
+.venv/
+venv/
+ENV/
+
+# ==========================================
+# Operating System & IDE Files
+# ==========================================
+.DS_Store
+Thumbs.db
+.vscode/
